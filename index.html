@@ -1,7 +1,53 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+<!-- an HTML app to generate random selection from a list-->
+<HTML>
+    <HEAD>
+        <script src="randomGenerator.js"></script>
+        <script src="cricketPlayingCountries.js"></script>
+        <script src="footballPlayingCountries.js"></script>
+    </HEAD>
+    <body>
+        <h1>Random Selection</h1>
+        <!-- drop down list to show the different lists-->
+        <label for="existingLists">Choose a list:</label>
+        <select name="existingLists" id="existingLists" onchange='listSelectionChange()'>
+            <option value="footballPlayingCountries">Football Playing Countries</option>
+            <option value="cricketPlayingCountries">Cricket Playing Countries</option>
+          </select>
+        <p>Enter a list of items:</p>
+        <textarea id="selectionList" name="list" rows="30" cols="50">
+Argentina
+Germany
+France
+Brazil
+Italy
+Spain
+England
+Portugal
+Netherlands
+Uruguay
+Greece
+Switzerland
+Belgium
+Croatia
+Ecuador
+USA
+Mexico
+Chile
+Ivory Coast
+Japan
+Costa Rica
+Honduras
+Iran
+Nigeria
+Ghana
+Algeria
+Cameroon
+Australia
+South Korea
+Columbia
+        </textarea>
+        <h1 id="currentSelection">Random Selection Will Show Here</h1>
+        <!-- button to  all a javascript function-->
+        <p><button onclick="generateRandom()" type="button">Generate a Random Selection</button></p>
+    </body>
+</HTML>
