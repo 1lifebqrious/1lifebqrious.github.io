@@ -8,13 +8,13 @@
     <body>
         <h1>Random Selection</h1>
         <!-- drop down list to show the different lists-->
-        <label for="existingLists">Choose a list:</label>
+        <label for="existingLists">Choose from an existing list:</label>
         <select name="existingLists" id="existingLists" onchange='listSelectionChange()'>
             <option value="none" style="display:none"></option>
             <option value="footballPlayingCountries">Football Playing Countries</option>
             <option value="cricketPlayingCountries">Cricket Playing Countries</option>
           </select>
-        <p>Enter a list of items:</p>
+        <p>Or, enter you own list of items:</p>
         <textarea id="selectionList" name="list" rows="30" cols="50"></textarea>
         <h1 id="currentSelection">Random Selection Will Show Here</h1>
         <!-- button to  all a javascript function-->
