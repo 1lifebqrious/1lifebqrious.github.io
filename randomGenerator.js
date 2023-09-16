@@ -4,6 +4,12 @@ function generateRandom() {
     var textarea = document.getElementById("selectionList");
     // get the value of the textarea
     var text = textarea.value;
+
+    if(text == "") {
+        alert("Please enter a list of items, separated by a new line.");
+        return;
+    }
+    
     // split the text into an array of lines
     var lines = text.split("\n");
     // get a random number between 0 and the number of lines
