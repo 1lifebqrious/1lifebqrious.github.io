@@ -1,24 +1,9 @@
-<!-- an HTML app to generate random selection from a list-->
 <HTML>
     <HEAD>
-        <script src="randomGenerator.js"></script>
-        <script src="cricketPlayingCountries.js"></script>
-        <script src="footballPlayingCountries.js"></script>
     </HEAD>
     <body>
-        <h1>Random Selection App</h1>
-        <h2>Given a list, it can infinitely generate random items from the list</h2>
-        <!-- drop down list to show the different lists-->
-        <label for="existingLists">Choose from an existing list:</label>
-        <select name="existingLists" id="existingLists" onchange='listSelectionChange()'>
-            <option disabled selected value> -- select a list -- </option>
-            <option value="footballPlayingCountries">Football Playing Countries</option>
-            <option value="cricketPlayingCountries">Cricket Playing Countries</option>
-          </select>
-        <p>Or, enter you own list of items:</p>
-        <textarea id="selectionList" name="list" rows="30" cols="50"></textarea>
-        <h1 id="currentSelection">Random Selection Will Show Here</h1>
-        <!-- button to  all a javascript function-->
-        <p><button onclick="generateRandom()" type="button">Generate a Random Selection</button></p>
+        <h1>One Life Be Curious</h1>
+        <h2>Here you can find a list of my projects</h2>
+        <a href="/randomListSelection/index.html">Random List Selection</a>
     </body>
 </HTML>
