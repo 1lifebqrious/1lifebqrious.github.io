@@ -32,16 +32,9 @@ function listSelectionChange() {
     var selectionList = document.getElementById("selectionList");
     // get the index of the selected option
     var selectedIndex = existingLists.selectedIndex;
-    // get the text of the selected option
-    var selectedList = existingLists.options[selectedIndex].text;
     // get the value of the selected option
     var selectedListValue = existingLists.options[selectedIndex].value;
     // set the value of the textarea to the value of the selected option
-
-    if(value == "none") {
-        selectionList.value = "";
-    }
-    
     selectionList.value = eval(selectedListValue);
        
 }
