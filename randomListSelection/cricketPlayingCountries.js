@@ -1,4 +1,5 @@
-cricketPlayingCountries = `Australia
+cricketPlayingCountries = 
+`Australia
 England
 India
 New Zealand

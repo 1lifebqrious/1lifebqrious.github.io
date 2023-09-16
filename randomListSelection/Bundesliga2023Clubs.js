@@ -1,0 +1,19 @@
+Bundesliga2023Clubs = 
+`Augsburg
+Berlin
+Bochum
+Bremen
+Darmstadt
+Dortmund
+Frankfurt
+Freiburg
+Heidenheim
+Hoffenheim
+Köln
+Leipzig
+Leverkusen
+Mainz
+Gladbach
+Munich
+Stuttgart
+Wolfsburg`

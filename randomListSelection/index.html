@@ -4,6 +4,11 @@
         <script src="randomGenerator.js"></script>
         <script src="cricketPlayingCountries.js"></script>
         <script src="footballPlayingCountries.js"></script>
+        <script src="FIFA2022Countries.js"></script>
+        <script src="ICC2023Countries.js"></script>        
+        <script src="EPL2023Clubs.js"></script>
+        <script src="Bundesliga2023Clubs.js"></script>
+        <script src="LaLiga2023Clubs.js"></script>
     </HEAD>
     <body>
         <h1>Random Selection App</h1>
@@ -12,8 +17,15 @@
         <label for="existingLists">Choose from an existing list:</label>
         <select name="existingLists" id="existingLists" onchange='listSelectionChange()'>
             <option disabled selected value> -- select a list -- </option>
-            <option value="footballPlayingCountries">Football Playing Countries</option>
-            <option value="cricketPlayingCountries">Cricket Playing Countries</option>
+            <option value="FIFA2022Countries">Football World Cup 2022 Countries</option>
+            <option value="ICC2023Countries">Cricket World Cup 2023 Countries</option>
+
+            <option value="LaLiga2023Clubs">Clubs playing in La Liga 2023/2024</option>
+            <option value="Bundesliga2023Clubs">Clubs playing in Bundesliga 2023/2024</option>
+            <option value="EPL2023Clubs">Clubs playing in English Premier League 2023/2024</option>
+                        
+            <option value="footballPlayingCountries">Countries that played Football Worldcup atleast once</option>
+            <option value="cricketPlayingCountries">Countries that played Cricket Worldcup atleast once</option>
           </select>
         <p>Or, enter you own list of items:</p>
         <textarea id="selectionList" name="list" rows="30" cols="50"></textarea>
