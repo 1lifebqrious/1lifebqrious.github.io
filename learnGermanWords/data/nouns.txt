@@ -1,0 +1,746 @@
+der Mann 	 the man 	 Der Mann geht jeden Tag zur Arbeit.	The man goes to work every day.
+die Frau 	 the woman 	 Die Frau kocht das Essen.	The woman cooks the food.
+das Kind 	 the child 	 Das Kind spielt im Garten.	The child plays in the garden.
+das Haus 	 the house 	 Das Haus ist sehr alt.	The house is very old.
+der Hund 	 the dog 	 Der Hund bellt laut.	The dog barks loudly.
+die Katze 	 the cat 	 Die Katze schläft auf dem Sofa.	The cat sleeps on the sofa.
+der Tisch 	 the table 	 Der Tisch steht im Esszimmer.	The table is in the dining room.
+der Stuhl 	 the chair 	 Der Stuhl ist sehr bequem.	The chair is very comfortable.
+das Buch 	 the book 	 Das Buch liegt auf dem Tisch.	The book is on the table.
+der Bleistift 	 the pencil 	 Der Bleistift ist spitz.	The pencil is sharp.
+das Papier 	 the paper 	 Das Papier ist weiß.	The paper is white.
+das Auto 	 the car 	 Das Auto fährt schnell.	The car drives fast.
+der Zug 	 the train 	 Der Zug kommt an.	The train arrives.
+das Flugzeug 	 the airplane 	 Das Flugzeug fliegt hoch.	The airplane flies high.
+das Fahrrad 	 the bicycle 	 Das Fahrrad ist neu.	The bicycle is new.
+die Straße 	 the street 	 Die Straße ist leer.	The street is empty.
+der Weg 	 the way/path 	 Der Weg ist lang.	The path is long.
+der Park 	 the park 	 Der Park ist grün.	The park is green.
+der Wald 	 the forest 	 Der Wald ist dunkel.	The forest is dark.
+der Fluss 	 the river 	 Der Fluss fließt langsam.	The river flows slowly.
+die Stadt 	 the city 	 Die Stadt ist groß.	The city is big.
+das Dorf 	 the village 	 Das Dorf ist klein.	The village is small.
+das Land 	 the country 	 Das Land ist weit.	The country is vast.
+der Berg 	 the mountain 	 Der Berg ist hoch.	The mountain is high.
+das Meer 	 the sea 	 Das Meer ist blau.	The sea is blue.
+der See 	 the lake 	 Der See ist klar.	The lake is clear.
+der Himmel 	 the sky 	 Der Himmel ist bewölkt.	The sky is cloudy.
+die Sonne 	 the sun 	 Die Sonne scheint.	The sun shines.
+der Mond 	 the moon 	 Der Mond leuchtet.	The moon glows.
+der Stern 	 the star 	 Der Stern funkelt.	The star twinkles.
+der Baum 	 the tree 	 Der Baum hat viele Blätter.	The tree has many leaves.
+die Blume 	 the flower 	 Die Blume duftet schön.	The flower smells nice.
+das Blatt 	 the leaf 	 Das Blatt fällt vom Baum.	The leaf falls from the tree.
+die Wurzel 	 the root 	 Die Wurzel ist tief im Boden.	The root is deep in the ground.
+der Stein 	 the stone 	 Der Stein ist hart.	The stone is hard.
+das Wasser 	 the water 	 Das Wasser ist kalt.	The water is cold.
+das Feuer 	 the fire 	 Das Feuer brennt.	The fire burns.
+die Luft 	 the air 	 Die Luft ist frisch.	The air is fresh.
+die Erde 	 the earth 	 Die Erde ist fruchtbar.	The soil is fertile.
+das Essen 	 the food 	 Das Essen ist lecker.	The food is delicious.
+das Frühstück 	 the breakfast 	 Das Frühstück ist fertig.	Breakfast is ready.
+das Mittagessen 	 the lunch 	 Das Mittagessen ist um zwölf.	Lunch is at twelve.
+das Abendessen 	 the dinner 	 Das Abendessen ist um sechs.	Dinner is at six.
+der Apfel 	 the apple 	 Der Apfel ist rot.	The apple is red.
+die Banane 	 the banana 	 Die Banane ist gelb.	The banana is yellow.
+die Orange 	 the orange 	 Die Orange ist saftig.	The orange is juicy.
+die Traube 	 the grape 	 Die Traube ist süß.	The grape is sweet.
+die Erdbeere 	 the strawberry 	 Die Erdbeere ist lecker.	The strawberry is delicious.
+die Tomate 	 the tomato 	 Die Tomate ist reif.	The tomato is ripe.
+die Kartoffel 	 the potato 	 Die Kartoffel ist groß.	The potato is large.
+der Reis 	 the rice 	 Der Reis ist weiß.	The rice is white.
+das Brot 	 the bread 	 Das Brot ist frisch.	The bread is fresh.
+die Butter 	 the butter 	 Die Butter ist weich.	The butter is soft.
+der Käse 	 the cheese 	 Der Käse ist würzig.	The cheese is spicy.
+die Milch 	 the milk 	 Die Milch ist kalt.	The milk is cold.
+das Fleisch 	 the meat 	 Das Fleisch ist zart.	The meat is tender.
+der Fisch 	 the fish 	 Der Fisch ist frisch.	The fish is fresh.
+das Huhn 	 the chicken 	 Das Huhn ist gebraten.	The chicken is roasted.
+das Ei 	 the egg 	 Das Ei ist hart gekocht.	The egg is hard-boiled.
+der Salat 	 the salad 	 Der Salat ist grün.	The salad is green.
+das Gemüse 	 the vegetable 	 Das Gemüse ist gesund.	The vegetable is healthy.
+die Suppe 	 the soup 	 Die Suppe ist heiß.	The soup is hot.
+der Kuchen 	 the cake 	 Der Kuchen ist süß.	The cake is sweet.
+das Eis 	 the ice cream 	 Das Eis ist kalt.	The ice cream is cold.
+der Zucker 	 the sugar 	 Der Zucker ist süß.	The sugar is sweet.
+das Salz 	 the salt 	 Das Salz ist im Schrank.	The salt is in the cabinet.
+der Pfeffer 	 the pepper 	 Der Pfeffer ist scharf.	The pepper is spicy.
+das Öl 	 the oil 	 Das Öl ist in der Flasche.	The oil is in the bottle.
+der Essig 	 the vinegar 	 Der Essig ist sauer.	The vinegar is sour.
+der Kaffee 	 the coffee 	 Der Kaffee ist stark.	The coffee is strong.
+der Tee 	 the tea 	 Der Tee ist heiß.	The tea is hot.
+der Saft 	 the juice 	 Der Saft ist frisch.	The juice is fresh.
+das Bier 	 the beer 	 Das Bier ist kalt.	The beer is cold.
+der Wein 	 the wine 	 Der Wein ist rot.	The wine is red.
+der Sekt 	 the sparkling wine 	 Der Sekt ist prickelnd.	The champagne is sparkling.
+der Schnaps 	 the liquor 	 Der Schnaps ist stark.	The liquor is strong.
+die Schule 	 the school 	 Die Schule ist groß.	The school is big.
+die Klasse 	 the class 	 Die Klasse ist laut.	The class is loud.
+der Schüler 	 the student (male) 	 Der Schüler lernt viel.	The student studies a lot.
+die Schülerin 	 the student (female) 	 Die Schülerin schreibt.	The student writes.
+der Lehrer 	 the teacher (male) 	 Der Lehrer erklärt die Aufgabe.	The teacher explains the task.
+die Lehrerin 	 the teacher (female) 	 Die Lehrerin ist nett.	The teacher is nice.
+das Heft 	 the notebook 	 Das Heft ist voll.	The notebook is full.
+der Stift 	 the pen 	 Der Stift schreibt gut.	The pen writes well.
+die Tafel 	 the blackboard 	 Die Tafel ist groß.	The blackboard is large.
+der Computer 	 the computer 	 Der Computer ist schnell.	The computer is fast.
+das Internet 	 the internet 	 Das Internet ist nützlich.	The internet is useful.
+die E-Mail 	 the email 	 Die E-Mail ist angekommen.	The email has arrived.
+das Handy 	 the mobile phone 	 Das Handy klingelt.	The cellphone is ringing.
+das Telefon 	 the telephone 	 Das Telefon ist alt.	The phone is old.
+der Fernseher 	 the television 	 Der Fernseher ist groß.	The television is large.
+das Radio 	 the radio 	 Das Radio spielt Musik.	The radio plays music.
+die Zeitung 	 the newspaper 	 Die Zeitung ist interessant.	The newspaper is interesting.
+das Magazin 	 the magazine 	 Das Magazin ist bunt.	The magazine is colorful.
+das Bild 	 the picture 	 Das Bild hängt an der Wand.	The picture hangs on the wall.
+die Kamera 	 the camera 	 Die Kamera ist neu.	The camera is new.
+das Foto 	 the photo 	 Das Foto ist schön.	The photo is beautiful.
+der Film 	 the movie 	 Der Film ist spannend.	The movie is thrilling.
+die Musik 	 the music 	 Die Musik ist laut.	The music is loud.
+das Lied 	 the song 	 Das Lied ist melodisch.	The song is melodic.
+der Ton 	 the sound 	 Der Ton ist leise.	The sound is soft.
+das Konzert 	 the concert 	 Das Konzert war ausverkauft.	The concert was sold out.
+das Instrument 	 the instrument 	 Das Instrument ist teuer.	The instrument is expensive.
+die Gitarre 	 the guitar 	 Die Gitarre klingt gut.	The guitar sounds good.
+das Klavier 	 the piano 	 Das Klavier ist groß.	The piano is large.
+die Flöte 	 the flute 	 Die Flöte klingt zart.	The flute sounds delicate.
+der Rhythmus 	 the rhythm 	 Der Rhythmus ist schnell.	The rhythm is fast.
+der Takt 	 the beat 	 Der Takt ist gleichmäßig.	The beat is steady.
+die Melodie 	 the melody 	 Die Melodie ist eingängig.	The melody is catchy.
+das Theater 	 the theater 	 Das Theater ist alt.	The theater is old.
+das Stück 	 the play 	 Das Stück ist dramatisch.	The play is dramatic.
+die Rolle 	 the role 	 Die Rolle passt zu ihm.	The role suits him.
+der Schauspieler 	 the actor 	 Der Schauspieler ist berühmt.	The actor is famous.
+die Schauspielerin 	 the actress 	 Die Schauspielerin gewann einen Preis.	The actress won a prize.
+die Bühne 	 the stage 	 Die Bühne ist beleuchtet.	The stage is lit.
+der Vorhang 	 the curtain 	 Der Vorhang öffnet sich.	The curtain opens.
+das Publikum 	 the audience 	 Das Publikum klatscht.	The audience claps.
+der Zuschauer 	 the spectator 	 Der Zuschauer ist begeistert.	The spectator is thrilled.
+die Kritik 	 the critique/review 	 Die Kritik war positiv.	The critique was positive.
+die Kunst 	 the art 	 Die Kunst ist ausdrucksstark.	The art is expressive.
+das Gemälde 	 the painting 	 Das Gemälde ist wertvoll.	The painting is valuable.
+die Skulptur 	 the sculpture 	 Die Skulptur ist modern.	The sculpture is modern.
+die Ausstellung 	 the exhibition 	 Die Ausstellung ist interessant.	The exhibition is interesting.
+der Künstler 	 the artist (male) 	 Der Künstler ist kreativ.	The artist is creative.
+die Künstlerin 	 the artist (female) 	 Die Künstlerin stellt aus.	The artist exhibits.
+das Atelier 	 the studio 	 Das Atelier ist hell.	The studio is bright.
+die Farbe 	 the color/paint 	 Die Farbe ist leuchtend.	The color is bright.
+der Pinsel 	 the brush 	 Der Pinsel ist weich.	The brush is soft.
+die Leinwand 	 the canvas 	 Die Leinwand ist groß.	The canvas is large.
+die Form 	 the shape 	 Die Form ist ungewöhnlich.	The shape is unusual.
+das Muster 	 the pattern 	 Das Muster ist komplex.	The pattern is complex.
+die Linie 	 the line 	 Die Linie ist gerade.	The line is straight.
+der Punkt 	 the point/dot 	 Der Punkt ist klein.	The dot is small.
+der Kreis 	 the circle 	 Der Kreis ist perfekt.	The circle is perfect.
+das Quadrat 	 the square 	 Das Quadrat hat vier Seiten.	The square has four sides.
+das Rechteck 	 the rectangle 	 Das Rechteck ist lang.	The rectangle is long.
+der Winkel 	 the angle 	 Der Winkel ist spitz.	The angle is sharp.
+die Kante 	 the edge 	 Die Kante ist scharf.	The edge is sharp.
+die Ecke 	 the corner 	 Die Ecke ist leer.	The corner is empty.
+die Oberfläche 	 the surface 	 Die Oberfläche ist glatt.	The surface is smooth.
+die Tiefe 	 the depth 	 Die Tiefe ist unbekannt.	The depth is unknown.
+die Höhe 	 the height 	 Die Höhe ist beeindruckend.	The height is impressive.
+die Breite 	 the width 	 Die Breite ist ausreichend.	The width is sufficient.
+das Volumen 	 the volume 	 Das Volumen ist groß.	The volume is large.
+das Gewicht 	 the weight 	 Das Gewicht ist schwer.	The weight is heavy.
+die Masse 	 the mass 	 Die Masse ist konstant.	The mass is constant.
+die Dichte 	 the density 	 Die Dichte ist hoch.	The density is high.
+die Temperatur 	 the temperature 	 Die Temperatur steigt.	The temperature rises.
+der Grad 	 the degree 	 Der Grad zeigt die Temperatur.	The degree shows the temperature.
+der Druck 	 the pressure 	 Der Druck nimmt zu.	The pressure increases.
+die Kraft 	 the force 	 Die Kraft ist stark.	The force is strong.
+die Energie 	 the energy 	 Die Energie ist erneuerbar.	The energy is renewable.
+die Leistung 	 the performance/power 	 Die Leistung ist beeindruckend.	The performance is impressive.
+die Geschwindigkeit 	 the speed 	 Die Geschwindigkeit ist hoch.	The speed is high.
+die Bewegung 	 the motion 	 Die Bewegung ist fließend.	The movement is fluid.
+die Richtung 	 the direction 	 Die Richtung ist vorgegeben.	The direction is predetermined.
+der Abstand 	 the distance 	 Der Abstand ist weit.	The distance is far.
+die Länge 	 the length 	 Die Länge ist genau.	The length is exact.
+die Fläche 	 the area 	 Die Fläche ist groß.	The area is large.
+das Material 	 the material 	 Das Material ist robust.	The material is sturdy.
+das Metall 	 the metal 	 Das Metall ist hart.	The metal is hard.
+das Holz 	 the wood 	 Das Holz ist natürlich.	The wood is natural.
+das Glas 	 the glass 	 Das Glas ist zerbrechlich.	The glass is fragile.
+der Kunststoff 	 the plastic 	 Der Kunststoff ist leicht.	The plastic is light.
+die Wolle 	 the wool 	 Die Wolle ist weich.	The wool is soft.
+die Baumwolle 	 the cotton 	 Die Baumwolle ist atmungsaktiv.	The cotton is breathable.
+das Leder 	 the leather 	 Das Leder ist geschmeidig.	The leather is supple.
+der Stoff 	 the fabric 	 Der Stoff ist bunt.	The fabric is colorful.
+die Seide 	 the silk 	 Die Seide ist glatt.	The silk is smooth.
+die Spitze 	 the lace 	 Die Spitze ist fein.	The lace is delicate.
+das Design 	 the design 	 Das Design ist modern.	The design is modern.
+die Mode 	 the fashion 	 Die Mode ist wechselhaft.	The fashion is changeable.
+der Stil 	 the style 	 Der Stil ist einzigartig.	The style is unique.
+die Marke 	 the brand 	 Die Marke ist bekannt.	The brand is well-known.
+das Label 	 the label 	 Das Label ist prestigeträchtig.	The label is prestigious.
+der Trend 	 the trend 	 Der Trend ist aktuell.	The trend is current.
+die Kollektion 	 the collection 	 Die Kollektion ist neu.	The collection is new.
+das Outfit 	 the outfit 	 Das Outfit ist schick.	The outfit is chic.
+das Accessoire 	 the accessory 	 Das Accessoire ist auffällig.	The accessory is striking.
+der Schmuck 	 the jewelry 	 Der Schmuck glänzt.	The jewelry shines.
+die Kette 	 the necklace 	 Die Kette ist golden.	The chain is golden.
+der Ring 	 the ring 	 Der Ring ist aus Silber.	The ring is made of silver.
+das Armband 	 the bracelet 	 Das Armband ist zierlich.	The bracelet is delicate.
+die Ohrringe 	 the earrings 	 Die Ohrringe sind funkelnd.	The earrings are sparkling.
+die Uhr 	 the watch 	 Die Uhr geht genau.	The watch is accurate.
+die Tasche 	 the bag 	 Die Tasche ist groß.	The bag is large.
+der Schuh 	 the shoe 	 Der Schuh ist bequem.	The shoe is comfortable.
+der Gürtel 	 the belt 	 Der Gürtel ist aus Leder.	The belt is made of leather.
+der Hut 	 the hat 	 Der Hut steht ihm gut.	The hat suits him well.
+die Brille 	 the glasses 	 Die Brille ist neu.	The glasses are new.
+der Staat 	 the state 	 Der Staat sorgt für seine Bürger.	The state takes care of its citizens.
+die Nation 	 the nation 	 Die Nation feiert ihren Unabhängigkeitstag.	The nation celebrates its Independence Day.
+die Regierung 	 the government 	 Die Regierung trifft wichtige Entscheidungen.	The government makes important decisions.
+der Präsident 	 the president 	 Der Präsident hält eine Rede.	The president gives a speech.
+der Minister 	 the minister 	 Der Minister besucht das Ausland.	The minister visits abroad.
+das Parlament 	 the parliament 	 Das Parlament debattiert über das Gesetz.	The parliament debates the law.
+die Partei 	 the party (political) 	 Die Partei gewinnt die Wahl.	The party wins the election.
+die Wahl 	 the election 	 Die Wahl findet nächste Woche statt.	The election takes place next week.
+das Gesetz 	 the law 	 Das Gesetz wird geändert.	The law is amended.
+das Gericht 	 the court 	 Das Gericht fällt ein Urteil.	The court delivers a verdict.
+der Richter 	 the judge 	 Der Richter hört die Zeugen.	The judge listens to the witnesses.
+der Anwalt 	 the lawyer (male) 	 Der Anwalt vertritt seinen Mandanten.	The lawyer represents his client.
+die Anwältin 	 the lawyer (female) 	 Die Anwältin bereitet sich auf den Fall vor.	The attorney prepares for the case.
+die Polizei 	 the police 	 Die Polizei sorgt für Ordnung.	The police maintain order.
+der Polizist 	 the policeman 	 Der Polizist patrouilliert in der Gegend.	The policeman patrols the area.
+die Polizistin 	 the policewoman 	 Die Polizistin nimmt die Anzeige auf.	The policewoman takes the report.
+das Büro 	 the office 	 Das Büro ist im fünften Stock.	The office is on the fifth floor.
+der Chef 	 the boss (male) 	 Der Chef hat das letzte Wort.	The boss has the last word.
+die Chefin 	 the boss (female) 	 Die Chefin lobt ihre Mitarbeiter.	The boss praises her employees.
+der Kollege 	 the colleague (male) 	 Der Kollege hilft mir oft.	The colleague helps me often.
+die Kollegin 	 the colleague (female) 	 Die Kollegin ist sehr kompetent.	The colleague is very competent.
+die Besprechung 	 the meeting 	 Die Besprechung dauert zwei Stunden.	The meeting lasts two hours.
+der Bericht 	 the report 	 Der Bericht muss heute fertig sein.	The report must be finished today.
+der Vertrag 	 the contract 	 Der Vertrag wird unterschrieben.	The contract is signed.
+das Angebot 	 the offer 	 Das Angebot ist sehr verlockend.	The offer is very tempting.
+die Nachfrage 	 the demand 	 Die Nachfrage nach dem Produkt ist hoch.	The demand for the product is high.
+der Kunde 	 the customer (male) 	 Der Kunde ist König.	The customer is king.
+die Kundin 	 the customer (female) 	 Die Kundin sucht ein Geschenk.	The client looks for a gift.
+der Verkauf 	 the sale 	 Der Verkauf startet morgen.	The sale starts tomorrow.
+der Kauf 	 the purchase 	 Der Kauf war eine gute Entscheidung.	The purchase was a good decision.
+der Preis 	 the price 	 Der Preis ist verhandelbar.	The price is negotiable.
+das Geld 	 the money 	 Das Geld reicht nicht aus.	The money is not enough.
+die Rechnung 	 the bill/invoice 	 Die Rechnung muss noch bezahlt werden.	The bill still needs to be paid.
+die Währung 	 the currency 	 Die Währung in England ist das Pfund.	The currency in England is the pound.
+die Bank 	 the bank 	 Die Bank schließt um fünf Uhr.	The bank closes at five.
+das Konto 	 the account 	 Das Konto ist fast leer.	The account is almost empty.
+die Karte 	 the card 	 Die Karte funktioniert nicht.	The card doesn't work.
+der Automat 	 the machine/ATM 	 Der Automat gibt kein Geld.	The machine doesn't give money.
+das Interesse 	 the interest 	 Das Interesse an dem Kurs ist groß.	The interest in the course is high.
+die Wirtschaft 	 the economy 	 Die Wirtschaft wächst.	The economy grows.
+die Industrie 	 the industry 	 Die Industrie braucht mehr Arbeiter.	The industry needs more workers.
+die Firma 	 the company 	 Die Firma expandiert ins Ausland.	The company expands abroad.
+das Unternehmen 	 the enterprise 	 Das Unternehmen ist erfolgreich.	The business is successful.
+der Betrieb 	 the operation/business 	 Der Betrieb stellt viele Leute ein.	The operation hires many people.
+der Markt 	 the market 	 Der Markt ist jeden Samstag.	The market is every Saturday.
+der Handel 	 the trade 	 Der Handel zwischen den Ländern ist wichtig.	Trade between countries is important.
+das Produkt 	 the product 	 Das Produkt wird gut verkauft.	The product sells well.
+die Ware 	 the goods 	 Die Ware ist defekt.	The goods are defective.
+die Qualität 	 the quality 	 Die Qualität ist ausgezeichnet.	The quality is excellent.
+der Service 	 the service 	 Der Service ist inklusive.	The service is included.
+die Dienstleistung 	 the service (as in service industry) 	 Die Dienstleistung wird gut bewertet.	The service is well-rated.
+die Beratung 	 the consultation/advice 	 Die Beratung hilft mir weiter.	The advice helps me further.
+der Erfolg 	 the success 	 Der Erfolg kommt mit harter Arbeit.	Success comes with hard work.
+das Ziel 	 the goal 	 Das Ziel ist in Sicht.	The goal is in sight.
+der Plan 	 the plan 	 Der Plan muss überarbeitet werden.	The plan must be revised.
+die Entscheidung 	 the decision 	 Die Entscheidung fällt schwer.	The decision is difficult.
+das Problem 	 the problem 	 Das Problem ist komplex.	The problem is complex.
+die Lösung 	 the solution 	 Die Lösung ist naheliegend.	The solution is obvious.
+der Vorschlag 	 the suggestion 	 Der Vorschlag wird angenommen.	The suggestion is accepted.
+die Idee 	 the idea 	 Die Idee ist brillant.	The idea is brilliant.
+der Gedanke 	 the thought 	 Der Gedanke ist tiefgründig.	The thought is profound.
+die Meinung 	 the opinion 	 Die Meinung ist geteilt.	The opinion is divided.
+das Gefühl 	 the feeling 	 Das Gefühl ist unbeschreiblich.	The feeling is indescribable.
+die Stimmung 	 the mood 	 Die Stimmung ist ausgelassen.	The mood is exuberant.
+die Atmosphäre 	 the atmosphere 	 Die Atmosphäre ist angenehm.	The atmosphere is pleasant.
+der Eindruck 	 the impression 	 Der Eindruck ist positiv.	The impression is positive.
+die Erfahrung 	 the experience 	 Die Erfahrung ist unbezahlbar.	The experience is priceless.
+das Wissen 	 the knowledge 	 Das Wissen wird erweitert.	The knowledge is expanded.
+die Information 	 the information 	 Die Information ist nützlich.	The information is useful.
+die Nachricht 	 the message/news 	 Die Nachricht ist überraschend.	The news is surprising.
+die Kommunikation 	 the communication 	 Die Kommunikation ist wichtig.	Communication is important.
+die Sprache 	 the language 	 Die Sprache ist schwierig.	The language is difficult.
+das Wort 	 the word 	 Das Wort ist mir entfallen.	The word has slipped my mind.
+der Satz 	 the sentence 	 Der Satz ist kompliziert.	The sentence is complicated.
+der Buchstabe 	 the letter (of alphabet) 	 Der Buchstabe ist falsch.	The letter is wrong.
+das Zeichen 	 the sign/symbol 	 Das Zeichen ist universell.	The symbol is universal.
+die Zahl 	 the number 	 Die Zahl ist ungerade.	The number is odd.
+die Menge 	 the amount/quantity 	 Die Menge ist ausreichend.	The amount is sufficient.
+das Maß 	 the measure 	 Das Maß ist voll.	The measure is full.
+die Größe 	 the size 	 Die Größe passt perfekt.	The size fits perfectly.
+der Meter 	 the meter 	 Der Meter ist die Einheit.	The meter is the unit.
+der Kilometer 	 the kilometer 	 Der Kilometer ist weit.	The kilometer is far.
+der Zentimeter 	 the centimeter 	 Der Zentimeter ist klein.	The centimeter is small.
+das Gramm 	 the gram 	 Das Gramm ist leicht.	The gram is light.
+das Kilogramm 	 the kilogram 	 Das Kilogramm ist schwer.	The kilogram is heavy.
+der Liter 	 the liter 	 Der Liter ist die Flüssigkeitsmaß.	The liter is the liquid measure.
+die Minute 	 the minute 	 Die Minute vergeht schnell.	The minute passes quickly.
+die Sekunde 	 the second 	 Die Sekunde zählt.	The second counts.
+die Stunde 	 the hour 	 Die Stunde ist vorbei.	The hour is over.
+der Tag 	 the day 	 Der Tag ist sonnig.	The day is sunny.
+die Woche 	 the week 	 Die Woche hat sieben Tage.	The week has seven days.
+der Monat 	 the month 	 Der Monat ist fast vorbei.	The month is almost over.
+das Jahr 	 the year 	 Das Jahr hat 365 Tage.	The year has 365 days.
+die Zeit 	 the time 	 Die Zeit vergeht schnell.	Time passes quickly.
+der Moment 	 the moment 	 Der Moment ist wichtig.	The moment is important.
+die Vergangenheit 	 the past 	 Die Vergangenheit bleibt unverändert.	The past remains unchanged.
+die Gegenwart 	 the present 	 Die Gegenwart ist alles, was wir haben.	The present is all we have.
+die Zukunft 	 the future 	 Die Zukunft ist ungewiss.	The future is uncertain.
+der Beginn 	 the beginning 	 Der Beginn war schwer.	The beginning was difficult.
+das Ende 	 the end 	 Das Ende ist nah.	The end is near.
+die Frist 	 the deadline 	 Die Frist ist heute.	The deadline is today.
+der Termin 	 the appointment 	 Der Termin ist morgen.	The appointment is tomorrow.
+das Datum 	 the date 	 Das Datum ist wichtig.	The date is important.
+der Kalender 	 the calendar 	 Der Kalender ist voll.	The calendar is full.
+die Uhrzeit 	 the time (of day) 	 Die Uhrzeit ist spät.	The time is late.
+der Morgen 	 the morning 	 Der Morgen ist frisch.	The morning is fresh.
+der Vormittag 	 the late morning 	 Der Vormittag ist produktiv.	The forenoon is productive.
+der Mittag 	 the noon 	 Der Mittag ist sonnig.	The noon is sunny.
+der Nachmittag 	 the afternoon 	 Der Nachmittag ist entspannt.	The afternoon is relaxed.
+der Abend 	 the evening 	 Der Abend ist ruhig.	The evening is calm.
+die Nacht 	 the night 	 Die Nacht ist dunkel.	The night is dark.
+die Mitternacht 	 the midnight 	 Die Mitternacht ist geheimnisvoll.	Midnight is mysterious.
+der Sonntag 	 the Sunday 	 Der Sonntag ist erholsam.	Sunday is relaxing.
+der Montag 	 the Monday 	 Der Montag ist anstrengend.	Monday is exhausting.
+der Dienstag 	 the Tuesday 	 Der Dienstag ist produktiv.	Tuesday is productive.
+der Mittwoch 	 the Wednesday 	 Der Mittwoch ist in der Mitte der Woche.	Wednesday is in the middle of the week.
+der Donnerstag 	 the Thursday 	 Der Donnerstag ist fast Freitag.	Thursday is almost Friday.
+der Freitag 	 the Friday 	 Der Freitag ist mein Lieblingstag.	Friday is my favorite day.
+der Samstag 	 the Saturday 	 Der Samstag ist für Freizeit.	Saturday is for leisure.
+der Januar 	 the January 	 Der Januar ist kalt.	January is cold.
+der Februar 	 the February 	 Der Februar ist kurz.	February is short.
+der März 	 the March 	 Der März bringt den Frühling.	March brings spring.
+der April 	 the April 	 Der April macht, was er will.	April does what it wants.
+der Mai 	 the May 	 Der Mai ist blumig.	May is flowery.
+der Juni 	 the June 	 Der Juni ist sonnig.	June is sunny.
+der Juli 	 the July 	 Der Juli ist heiß.	July is hot.
+der August 	 the August 	 Der August ist sommerlich.	August is summery.
+der September 	 the September 	 Der September ist bunt.	September is colorful.
+der Oktober 	 the October 	 Der Oktober ist golden.	October is golden.
+der November 	 the November 	 Der November ist neblig.	November is foggy.
+der Dezember 	 the December 	 Der Dezember ist festlich.	December is festive.
+die Jahreszeit 	 the season 	 Die Jahreszeit wechselt.	The season changes.
+der Frühling 	 the spring 	 Der Frühling ist frisch.	Spring is fresh.
+der Sommer 	 the summer 	 Der Sommer ist warm.	Summer is warm.
+der Herbst 	 the autumn 	 Der Herbst ist bunt.	Autumn is colorful.
+der Winter 	 the winter 	 Der Winter ist kalt.	Winter is cold.
+das Wetter 	 the weather 	 Das Wetter ist unbeständig.	The weather is unpredictable.
+der Regen 	 the rain 	 Der Regen nass.	The rain is wet.
+der Schnee 	 the snow 	 Der Schnee ist weiß.	The snow is white.
+der Wind 	 the wind 	 Der Wind weht.	The wind blows.
+die Wolke 	 the cloud 	 Die Wolke ist grau.	The cloud is gray.
+der Schatten 	 the shadow 	 Der Schatten ist lang.	The shadow is long.
+die Hitze 	 the heat 	 Die Hitze ist drückend.	The heat is oppressive.
+die Kälte 	 the cold 	 Die Kälte ist beißend.	The cold is biting.
+die Küste 	 the coast 	 Die Küste ist malerisch.	The coast is picturesque.
+der Ozean 	 the ocean 	 Der Ozean ist tief.	The ocean is deep.
+das Tal 	 the valley 	 Das Tal ist grün.	The valley is green.
+die Insel 	 the island 	 Die Insel ist abgelegen.	The island is remote.
+der Strand 	 the beach 	 Der Strand ist sandig.	The beach is sandy.
+die Pflanze 	 the plant 	 Die Pflanze wächst.	The plant grows.
+das Gras 	 the grass 	 Das Gras ist grün.	The grass is green.
+der Ast 	 the branch 	 Der Ast bricht ab.	The branch breaks off.
+das Feld 	 the field 	 Das Feld ist weit.	The field is vast.
+der Garten 	 the garden 	 Der Garten ist gepflegt.	The garden is well-kept.
+die Natur 	 the nature 	 Die Natur ist schön.	Nature is beautiful.
+die Umwelt 	 the environment 	 Die Umwelt muss geschützt werden.	The environment must be protected.
+das Licht 	 the light 	 Das Licht ist hell.	The light is bright.
+die Dunkelheit 	 the darkness 	 Die Dunkelheit ist tief.	The darkness is deep.
+die Welle 	 the wave 	 Die Welle bricht.	The wave breaks.
+der Strom 	 the current/electricity 	 Der Strom fließt.	The current flows.
+die Spannung 	 the tension/voltage 	 Die Spannung ist hoch.	The voltage is high.
+die Chemie 	 the chemistry 	 Die Chemie ist faszinierend.	Chemistry is fascinating.
+das Element 	 the element 	 Das Element ist grundlegend.	The element is fundamental.
+das Atom 	 the atom 	 Das Atom ist klein.	The atom is small.
+die Formel 	 the formula 	 Die Formel ist kompliziert.	The formula is complicated.
+die Reaktion 	 the reaction 	 Die Reaktion ist schnell.	The reaction is fast.
+die Substanz 	 the substance 	 Die Substanz ist unbekannt.	The substance is unknown.
+das Eisen 	 the iron 	 Das Eisen ist schwer.	The iron is heavy.
+das Gold 	 the gold 	 Das Gold ist wertvoll.	The gold is valuable.
+das Silber 	 the silver 	 Das Silber ist glänzend.	The silver is shiny.
+der Sand 	 the sand 	 Der Sand ist fein.	The sand is fine.
+der Rand 	 the edge 	 Der Rand ist scharf.	The edge is sharp.
+das Loch 	 the hole 	 Das Loch muss gestopft werden.	The hole must be patched.
+die Entfernung 	 the distance 	 Die Entfernung kann zu Fuß zurückgelegt werden.	The distance can be walked.
+die Beschleunigung 	 the acceleration 	 Die Beschleunigung ist spürbar.	The acceleration is noticeable.
+der Schritt 	 the step 	 Der Schritt ist entscheidend.	The step is crucial.
+der Pfad 	 the path 	 Der Pfad ist schmal.	The path is narrow.
+die Brücke 	 the bridge 	 Die Brücke überspannt den Fluss.	The bridge spans the river.
+der Tunnel 	 the tunnel 	 Der Tunnel ist dunkel.	The tunnel is dark.
+die Kreuzung 	 the intersection 	 Die Kreuzung ist belebt.	The intersection is busy.
+die Kurve 	 the curve 	 Die Kurve ist scharf.	The curve is sharp.
+die Ampel 	 the traffic light 	 Die Ampel steht auf Rot.	The traffic light is red.
+das Schild 	 the sign 	 Das Schild weist den Weg.	The sign shows the way.
+die Spur 	 the lane/track 	 Die Spur führt nach Norden.	The track leads north.
+die Fahrbahn 	 the roadway 	 Die Fahrbahn ist nass.	The roadway is wet.
+der Verkehr 	 the traffic 	 Der Verkehr ist dicht.	The traffic is dense.
+das Fahrzeug 	 the vehicle 	 Das Fahrzeug ist neu.	The vehicle is new.
+der Bus 	 the bus 	 Der Bus kommt spät.	The bus arrives late.
+der LKW (Lastkraftwagen) 	 the truck 	 Der LKW liefert die Ware.	The truck delivers the goods.
+das Motorrad 	 the motorcycle 	 Das Motorrad ist schnell.	The motorcycle is fast.
+die Bahn 	 the railway/train 	 Die Bahn ist pünktlich.	The train is punctual.
+die Straßenbahn 	 the tram 	 Die Straßenbahn ist voll.	The tram is full.
+die U-Bahn 	 the subway 	 Die U-Bahn ist schnell.	The subway is fast.
+das Schiff 	 the ship 	 Das Schiff sticht in See.	The ship sets sail.
+das Boot 	 the boat 	 Das Boot schaukelt.	The boat rocks.
+der Flughafen 	 the airport 	 Der Flughafen ist groß.	The airport is large.
+der Hafen 	 the harbor 	 Der Hafen ist geschäftig.	The port is busy.
+der Pilot 	 the pilot 	 Der Pilot steuert das Flugzeug.	The pilot steers the plane.
+der Kapitän 	 the captain 	 Der Kapitän kennt den Kurs.	The captain knows the course.
+die Crew 	 the crew 	 Die Crew ist bereit.	The crew is ready.
+der Passagier 	 the passenger 	 Der Passagier wartet auf Abflug.	The passenger waits for departure.
+die Sicherheit 	 the safety 	 Die Sicherheit wird großgeschrieben.	Safety is a priority.
+der Unfall 	 the accident 	 Der Unfall wurde vermieden.	The accident was avoided.
+die Rettung 	 the rescue 	 Die Rettung kommt schnell.	Rescue comes quickly.
+die Gefahr 	 the danger 	 Die Gefahr ist gebannt.	The danger is averted.
+das Risiko 	 the risk 	 Das Risiko ist kalkulierbar.	The risk is calculable.
+die Vorsicht 	 the caution 	 Die Vorsicht ist geboten.	Caution is advised.
+die Warnung 	 the warning 	 Die Warnung wurde ignoriert.	The warning was ignored.
+der Schutz 	 the protection 	 Der Schutz ist sicher.	The protection is secure.
+die Versicherung 	 the insurance 	 Die Versicherung deckt den Schaden.	The insurance covers the damage.
+der Schaden 	 the damage 	 Der Schaden ist groß.	The damage is large.
+der Verlust 	 the loss 	 Der Verlust ist schmerzlich.	The loss is painful.
+die Hilfe 	 the help 	 Die Hilfe kommt rechtzeitig.	The help comes in time.
+die Unterstützung 	 the support 	 Die Unterstützung ist wichtig.	Support is important.
+die Reparatur 	 the repair 	 Die Reparatur ist teuer.	The repair is expensive.
+die Wartung 	 the maintenance 	 Die Wartung ist notwendig.	Maintenance is necessary.
+die Anleitung 	 the instruction 	 Die Anleitung ist verständlich.	The instructions are understandable.
+der Rat 	 the advice 	 Der Rat ist hilfreich.	The advice is helpful.
+die Empfehlung 	 the recommendation 	 Die Empfehlung ist gut.	The recommendation is good.
+die Anweisung 	 the order/instruction 	 Die Anweisung ist klar.	The instruction is clear.
+der Befehl 	 the command 	 Der Befehl muss befolgt werden.	The order must be followed.
+die Regel 	 the rule 	 Die Regel muss eingehalten werden.	The rule must be observed.
+die Vorschrift 	 the regulation 	 Die Vorschrift ist streng.	The regulation is strict.
+die Ordnung 	 the order 	 Die Ordnung wird wiederhergestellt.	Order is restored.
+das Recht 	 the right 	 Das Recht ist unantastbar.	The law is inviolable.
+die Freiheit 	 the freedom 	 Die Freiheit ist kostbar.	Freedom is precious.
+die Gerechtigkeit 	 the justice 	 Die Gerechtigkeit siegt.	Justice prevails.
+der Fehler 	 the mistake 	 Der Fehler wird korrigiert.	The mistake is corrected.
+die Ursache 	 the cause 	 Die Ursache ist unklar.	The cause is unclear.
+die Wirkung 	 the effect 	 Die Wirkung tritt sofort ein.	The effect occurs immediately.
+der Misserfolg 	 the failure 	 Der Misserfolg ist enttäuschend.	The failure is disappointing.
+die Absicht 	 the intention 	 Die Absicht ist gut.	The intention is good.
+der Wunsch 	 the wish 	 Der Wunsch geht in Erfüllung.	The wish comes true.
+die Hoffnung 	 the hope 	 Die Hoffnung stirbt zuletzt.	Hope is the last to die.
+der Traum 	 the dream 	 Der Traum wird wahr.	The dream comes true.
+die Realität 	 the reality 	 Die Realität ist anders.	Reality is different.
+die Wahrheit 	 the truth 	 Die Wahrheit kommt ans Licht.	The truth comes to light.
+die Lüge 	 the lie 	 Die Lüge wird entlarvt.	The lie is exposed.
+der Beweis 	 the proof 	 Der Beweis ist erbracht.	The proof is provided.
+das Argument 	 the argument 	 Das Argument ist stichhaltig.	The argument is valid.
+die Diskussion 	 the discussion 	 Die Diskussion ist lebhaft.	The discussion is lively.
+das Gespräch 	 the conversation 	 Das Gespräch ist interessant.	The conversation is interesting.
+die Frage 	 the question 	 Die Frage bleibt offen.	The question remains open.
+die Antwort 	 the answer 	 Die Antwort ist richtig.	The answer is correct.
+die Bildung 	 the education 	 Die Bildung ist wichtig.	Education is important.
+die Universität 	 the university 	 Die Universität ist renommiert.	The university is renowned.
+der Unterricht 	 the lesson 	 Der Unterricht beginnt.	The class begins.
+das Fach 	 the subject 	 Das Fach ist interessant.	The subject is interesting.
+die Prüfung 	 the exam 	 Die Prüfung ist schwer.	The exam is difficult.
+das Ergebnis 	 the result 	 Das Ergebnis ist gut.	The result is good.
+das Zertifikat 	 the certificate 	 Das Zertifikat bestätigt die Qualifikation.	The certificate confirms the qualification.
+die Summe 	 the sum 	 Die Summe ist enorm.	The sum is enormous.
+der Durchschnitt 	 the average 	 Der Durchschnitt ist zufriedenstellend.	The average is satisfactory.
+das Minimum 	 the minimum 	 Das Minimum ist erreicht.	The minimum is reached.
+das Maximum 	 the maximum 	 Das Maximum ist überschritten.	The maximum is exceeded.
+die Prozent 	 the percent 	 Die Prozent sind angestiegen.	The percentage has risen.
+die Rate 	 the rate 	 Die Rate ist konstant.	The rate is constant.
+der Anteil 	 the proportion 	 Der Anteil ist bedeutend.	The proportion is significant.
+der Teil 	 the part 	 Der Teil gehört zum Ganzen.	The part belongs to the whole.
+das Ganze 	 the whole 	 Das Ganze ist mehr als die Summe seiner Teile.	The whole is more than the sum of its parts.
+die Hälfte 	 the half 	 Die Hälfte ist genug.	Half is enough.
+das Drittel 	 the third 	 Das Drittel ist fair.	A third is fair.
+das Viertel 	 the quarter 	 Das Viertel ist lebendig.	A quarter is lively.
+der Bruchteil 	 the fraction 	 Der Bruchteil ist klein.	The fraction is small.
+die Vielzahl 	 the multitude 	 Die Vielzahl ist überwältigend.	The multitude is overwhelming.
+die Gruppe 	 the group 	 Die Gruppe trifft sich.	The group meets.
+das Paar 	 the couple/pair 	 Das Paar ist glücklich.	The couple is happy.
+die Reihe 	 the row/series 	 Die Reihe ist lang.	The row is long.
+die Liste 	 the list 	 Die Liste ist vollständig.	The list is complete.
+die Auswahl 	 the selection 	 Die Auswahl ist groß.	The selection is large.
+die Option 	 the option 	 Die Option ist vorteilhaft.	The option is advantageous.
+die Alternative 	 the alternative 	 Die Alternative ist besser.	The alternative is better.
+der Wille 	 the will 	 Der Wille ist stark.	The will is strong.
+der Entschluss 	 the resolution 	 Der Entschluss ist gefasst.	The decision is made.
+die Erlaubnis 	 the permission 	 Die Erlaubnis ist erteilt.	Permission is granted.
+die Genehmigung 	 the approval 	 Die Genehmigung liegt vor.	Approval is obtained.
+die Zustimmung 	 the consent 	 Die Zustimmung ist gegeben.	Consent is given.
+die Ablehnung 	 the rejection 	 Die Ablehnung ist endgültig.	Rejection is final.
+das Lob 	 the praise 	 Das Lob ist verdient.	The praise is deserved.
+der Tadel 	 the reprimand 	 Der Tadel ist berechtigt.	The criticism is justified.
+die Anerkennung 	 the recognition 	 Die Anerkennung ist wichtig.	Recognition is important.
+der Respekt 	 the respect 	 Der Respekt ist gegenseitig.	Respect is mutual.
+die Wertschätzung 	 the appreciation 	 Die Wertschätzung wird ausgedrückt.	Appreciation is expressed.
+die Sympathie 	 the sympathy 	 Die Sympathie ist spürbar.	Sympathy is tangible.
+die Antipathie 	 the antipathy 	 Die Antipathie ist offensichtlich.	Antipathy is obvious.
+die Liebe 	 the love 	 Die Liebe ist das schönste Gefühl.	Love is the most beautiful feeling.
+die Freundschaft 	 the friendship 	 Die Freundschaft ist unersetzlich.	Friendship is irreplaceable.
+die Beziehung 	 the relationship 	 Die Beziehung wird stärker.	The relationship gets stronger.
+die Ehe 	 the marriage 	 Die Ehe ist ein Bund fürs Leben.	Marriage is a bond for life.
+die Familie 	 the family 	 Die Familie steht immer zusammen.	The family always sticks together.
+der Partner 	 the partner (male) 	 Der Partner ist verständnisvoll.	The partner is understanding.
+die Partnerin 	 the partner (female) 	 Die Partnerin ist liebevoll.	The partner is loving.
+der Ehemann 	 the husband 	 Der Ehemann ist fürsorglich.	The husband is caring.
+die Ehefrau 	 the wife 	 Die Ehefrau ist unterstützend.	The wife is supportive.
+der Vater 	 the father 	 Der Vater liest eine Geschichte vor.	The father reads a story.
+die Mutter 	 the mother 	 Die Mutter kümmert sich um alles.	The mother takes care of everything.
+der Sohn 	 the son 	 Der Sohn lernt schnell.	The son learns quickly.
+die Tochter 	 the daughter 	 Die Tochter singt ein Lied.	The daughter sings a song.
+der Bruder 	 the brother 	 Der Bruder hilft beim Umzug.	The brother helps with the move.
+die Schwester 	 the sister 	 Die Schwester teilt ihr Zimmer.	The sister shares her room.
+die Großeltern 	 the grandparents 	 Die Großeltern erzählen Geschichten.	The grandparents tell stories.
+der Großvater 	 the grandfather 	 Der Großvater geht spazieren.	The grandfather goes for a walk.
+die Großmutter 	 the grandmother 	 Die Großmutter backt Kuchen.	The grandmother bakes cakes.
+der Enkel 	 the grandson 	 Der Enkel besucht seine Großeltern.	The grandson visits his grandparents.
+die Enkelin 	 the granddaughter 	 Die Enkelin spielt Klavier.	The granddaughter plays the piano.
+der Onkel 	 the uncle 	 Der Onkel bringt Geschenke.	The uncle brings gifts.
+die Tante 	 the aunt 	 Die Tante reist viel.	The aunt travels a lot.
+der Cousin 	 the cousin (male) 	 Der Cousin studiert Medizin.	The cousin studies medicine.
+die Cousine 	 the cousin (female) 	 Die Cousine malt gerne.	The cousin likes to paint.
+der Neffe 	 the nephew 	 Der Neffe ist abenteuerlustig.	The nephew is adventurous.
+die Nichte 	 the niece 	 Die Nichte ist sehr neugierig.	The niece is very curious.
+der Freund 	 the friend (male) 	 Der Freund steht immer zur Seite.	The friend is always there.
+die Freundin 	 the friend (female) 	 Die Freundin teilt Geheimnisse.	The girlfriend shares secrets.
+der Nachbar 	 the neighbor (male) 	 Der Nachbar grüßt freundlich.	The neighbor greets kindly.
+die Nachbarin 	 the neighbor (female) 	 Die Nachbarin gießt die Blumen.	The neighbor waters the flowers.
+der Bekannte 	 the acquaintance (male) 	 Der Bekannte kommt aus Berlin.	The acquaintance comes from Berlin.
+die Bekannte 	 the acquaintance (female) 	 Die Bekannte arbeitet in der Bibliothek.	The acquaintance works in the library.
+der Mensch 	 the human 	 Der Mensch ist ein soziales Wesen.	The human is a social being.
+die Person 	 the person 	 Die Person ist einzigartig.	The person is unique.
+der Herr 	 the gentleman/Mr. 	 Der Herr wartet an der Haltestelle.	The man waits at the stop.
+die Dame 	 the lady/Ms. 	 Die Dame trägt einen eleganten Hut.	The lady wears an elegant hat.
+der Junge 	 the boy 	 Der Junge spielt Fußball.	The boy plays football.
+das Mädchen 	 the girl 	 Das Mädchen liest ein Buch.	The girl reads a book.
+der Jugendliche 	 the teenager (male) 	 Der Jugendliche hört Musik.	The teenager listens to music.
+die Jugendliche 	 the teenager (female) 	 Die Jugendliche trifft sich mit Freunden.	The teenager meets with friends.
+der Erwachsene 	 the adult (male) 	 Der Erwachsene geht zur Arbeit.	The adult goes to work.
+die Erwachsene 	 the adult (female) 	 Die Erwachsene kocht Abendessen.	The adult cooks dinner.
+der Senior 	 the senior (male) 	 Der Senior genießt seinen Ruhestand.	The senior enjoys retirement.
+die Seniorin 	 the senior (female) 	 Die Seniorin geht spazieren.	The senior goes for a walk.
+das Baby 	 the baby 	 Das Baby schläft friedlich.	The baby sleeps peacefully.
+das Kleinkind 	 the toddler 	 Das Kleinkind lernt laufen.	The toddler learns to walk.
+der Teenager 	 the teenager 	 Der Teenager besucht die Schule.	The teenager attends school.
+der Alte 	 the old man 	 Der Alte erzählt Geschichten.	The old man tells stories.
+die Alte 	 the old woman 	 Die Alte strickt einen Schal.	The old woman knits a scarf.
+das Alter 	 the age 	 Das Alter bringt Weisheit.	Age brings wisdom.
+die Jugend 	 the youth 	 Die Jugend ist unbeschwert.	Youth is carefree.
+das Leben 	 the life 	 Das Leben ist kostbar.	Life is precious.
+die Geburt 	 the birth 	 Die Geburt eines Kindes ist ein Wunder.	The birth of a child is a miracle.
+der Tod 	 the death 	 Der Tod ist Teil des Lebens.	Death is part of life.
+das Glück 	 the happiness 	 Das Glück ist manchmal flüchtig.	Happiness is sometimes fleeting.
+die Freude 	 the joy 	 Die Freude ist groß.	The joy is great.
+das Lächeln 	 the smile 	 Das Lächeln ist ansteckend.	The smile is contagious.
+das Lachen 	 the laughter 	 Das Lachen erfüllt den Raum.	Laughter fills the room.
+die Träne 	 the tear 	 Die Träne drückt Emotionen aus.	The tear expresses emotions.
+das Weinen 	 the crying 	 Das Weinen zeigt Trauer.	Crying shows sorrow.
+die Traurigkeit 	 the sadness 	 Die Traurigkeit legt sich wie ein Schatten.	Sadness casts a shadow.
+der Schmerz 	 the pain 	 Der Schmerz vergeht langsam.	The pain fades slowly.
+die Angst 	 the fear 	 Die Angst ist überwunden.	The fear is overcome.
+die Sorge 	 the worry 	 Die Sorge ist unbegründet.	The worry is unfounded.
+der Stress 	 the stress 	 Der Stress lässt nach.	The stress subsides.
+die Entspannung 	 the relaxation 	 Die Entspannung ist notwendig.	Relaxation is necessary.
+die Ruhe 	 the peace/quiet 	 Die Ruhe ist erholsam.	The calm is restorative.
+die Erholung 	 the recovery 	 Die Erholung dauert an.	Recovery lasts.
+der Schlaf 	 the sleep 	 Der Schlaf ist tief.	Sleep is deep.
+die Emotion 	 the emotion 	 Die Emotion ist überwältigend.	The emotion is overwhelming.
+das Herz 	 the heart 	 Das Herz schlägt schnell.	The heart beats fast.
+der Geist 	 the spirit/mind 	 Der Geist ist wach.	The mind is alert.
+die Seele 	 the soul 	 Die Seele ist unsterblich.	The soul is immortal.
+der Charakter 	 the character 	 Der Charakter ist stark.	The character is strong.
+die Persönlichkeit 	 the personality 	 Die Persönlichkeit ist faszinierend.	The personality is fascinating.
+das Temperament 	 the temperament 	 Das Temperament ist feurig.	The temperament is fiery.
+die Einstellung 	 the attitude 	 Die Einstellung ist positiv.	The attitude is positive.
+der Standpunkt 	 the standpoint 	 Der Standpunkt ist klar.	The viewpoint is clear.
+die Haltung 	 the posture/attitude 	 Die Haltung zeigt Selbstbewusstsein.	The posture shows confidence.
+die Achtung 	 the respect/attention 	 Die Achtung gebührt jedem.	Respect is due to everyone.
+die Würde 	 the dignity 	 Die Würde ist unantastbar.	Dignity is inviolable.
+das Ansehen 	 the reputation 	 Das Ansehen ist makellos.	The reputation is flawless.
+die Ehre 	 the honor 	 Die Ehre wird verteidigt.	Honor is defended.
+das Vertrauen 	 the trust 	 Das Vertrauen ist geschenkt.	Trust is given.
+der Zweifel 	 the doubt 	 Der Zweifel nagt.	Doubt gnaws.
+die Gewissheit 	 the certainty 	 Die Gewissheit beruhigt.	Certainty reassures.
+die Kenntnis 	 the knowledge 	 Die Kenntnis der Regeln ist wichtig.	Knowledge of the rules is important.
+die Fähigkeit 	 the ability 	 Die Fähigkeit zu lernen ist entscheidend.	The ability to learn is crucial.
+das Talent 	 the talent 	 Das Talent ist offensichtlich.	The talent is obvious.
+die Begabung 	 the gift/talent 	 Die Begabung wird gefördert.	The gift is nurtured.
+das Können 	 the skill 	 Das Können ist beeindruckend.	The skill is impressive.
+der Fortschritt 	 the progress 	 Der Fortschritt ist deutlich.	Progress is evident.
+die Verbesserung 	 the improvement 	 Die Verbesserung ist spürbar.	Improvement is noticeable.
+das Projekt 	 the project 	 Das Projekt ist ambitioniert.	The project is ambitious.
+die Aufgabe 	 the task 	 Die Aufgabe ist herausfordernd.	The task is challenging.
+die Herausforderung 	 the challenge 	 Die Herausforderung wird angenommen.	The challenge is accepted.
+die Strategie 	 the strategy 	 Die Strategie ist erfolgsversprechend.	The strategy is promising.
+die Methode 	 the method 	 Die Methode ist effektiv.	The method is effective.
+das System 	 the system 	 Das System funktioniert.	The system works.
+die Organisation 	 the organization 	 Die Organisation ist strukturiert.	The organization is structured.
+die Struktur 	 the structure 	 Die Struktur ist klar.	The structure is clear.
+der Prozess 	 the process 	 Der Prozess ist im Gange.	The process is underway.
+die Phase 	 the phase 	 Die Phase ist vorübergehend.	The phase is temporary.
+das Stadium 	 the stage 	 Das Stadium ist kritisch.	The stage is critical.
+die Maßnahme 	 the measure 	 Die Maßnahme zeigt Wirkung.	The measure shows effect.
+die Richtlinie 	 the guideline 	 Die Richtlinie ist hilfreich.	The guideline is helpful.
+die Norm 	 the norm 	 Die Norm wird beachtet.	The norm is observed.
+der Standard 	 the standard 	 Der Standard ist hoch.	The standard is high.
+das Niveau 	 the level 	 Das Niveau ist anspruchsvoll.	The level is demanding.
+die Stufe 	 the level/step 	 Die Stufe ist erreicht.	The stage is reached.
+das Kriterium 	 the criterion 	 Das Kriterium ist erfüllt.	The criterion is met.
+die Bedingung 	 the condition 	 Die Bedingung ist akzeptabel.	The condition is acceptable.
+der Faktor 	 the factor 	 Der Faktor ist entscheidend.	The factor is crucial.
+das Detail 	 the detail 	 Das Detail ist wichtig.	The detail is important.
+das Merkmal 	 the feature/characteristic 	 Das Merkmal ist charakteristisch.	The feature is characteristic.
+das Symbol 	 the symbol 	 Das Symbol hat eine Bedeutung.	The symbol has meaning.
+das Signal 	 the signal 	 Das Signal ist eindeutig.	The signal is clear.
+der Hinweis 	 the hint/tip 	 Der Hinweis ist hilfreich.	The hint is helpful.
+der Tipp 	 the tip 	 Der Tipp erleichtert die Arbeit.	The tip facilitates the work.
+der Ratschlag 	 the advice 	 Der Ratschlag ist wertvoll.	The advice is valuable.
+die Ansicht 	 the view/opinion 	 Die Ansicht ist interessant.	The view is interesting.
+die Überzeugung 	 the conviction 	 Die Überzeugung ist stark.	The conviction is strong.
+die Debatte 	 the debate 	 Die Debatte ist kontrovers.	The debate is controversial.
+die Aussage 	 the statement 	 Die Aussage ist wahr.	The statement is true.
+die Erklärung 	 the explanation 	 Die Erklärung ist verständlich.	The explanation is understandable.
+die Beschreibung 	 the description 	 Die Beschreibung ist detailliert.	The description is detailed.
+die Anzeige 	 the advertisement/announcement 	 Die Anzeige lockt viele Kunden.	The ad attracts many customers.
+die Meldung 	 the report/announcement 	 Die Meldung ist wichtig.	The news is important.
+der Artikel 	 the article 	 Der Artikel ist interessant.	The article is interesting.
+das Interview 	 the interview 	 Das Interview ist aufschlussreich.	The interview is revealing.
+die Presse 	 the press 	 Die Presse berichtet.	The press reports.
+die Medien 	 the media 	 Die Medien beeinflussen die Meinung.	The media influences opinion.
+das Fernsehen 	 the television 	 Das Fernsehen unterhält.	Television entertains.
+die Website 	 the website 	 Die Website ist benutzerfreundlich.	The website is user-friendly.
+das Netzwerk 	 the network 	 Das Netzwerk ist groß.	The network is large.
+die Software 	 the software 	 Die Software wird aktualisiert.	The software is updated.
+die Technologie 	 the technology 	 Die Technologie entwickelt sich weiter.	Technology evolves.
+das Gerät 	 the device 	 Das Gerät ist defekt.	The device is defective.
+die Maschine 	 the machine 	 Die Maschine arbeitet präzise.	The machine works precisely.
+das Werkzeug 	 the tool 	 Das Werkzeug ist nützlich.	The tool is useful.
+der Rohstoff 	 the raw material 	 Der Rohstoff ist wertvoll.	The raw material is valuable.
+der Rabatt 	 the discount 	 Der Rabatt ist attraktiv.	The discount is attractive.
+das Schnäppchen 	 the bargain 	 Das Schnäppchen ist unschlagbar.	The bargain is unbeatable.
+das Geschäft 	 the business/store 	 Das Geschäft floriert.	The business is thriving.
+der Laden 	 the shop 	 Der Laden ist um die Ecke.	The store is around the corner.
+das Kaufhaus 	 the department store 	 Das Kaufhaus hat viele Etagen.	The department store has many floors.
+der Verkäufer 	 the seller 	 Der Verkäufer berät gut.	The salesman gives good advice.
+die Verkäuferin 	 the seller (female) 	 Die Verkäuferin lächelt freundlich.	The saleswoman smiles kindly.
+die Werbung 	 the advertisement 	 Die Werbung ist überall.	The advertising is everywhere.
+der Katalog 	 the catalog 	 Der Katalog zeigt die neuesten Trends.	The catalog shows the latest trends.
+der Einkauf 	 the shopping 	 Der Einkauf macht Spaß.	Shopping is fun.
+der Verbraucher 	 the consumer 	 Der Verbraucher ist kritisch.	The consumer is critical.
+der Umsatz 	 the turnover 	 Der Umsatz steigt.	The turnover is increasing.
+der Gewinn 	 the profit 	 Der Gewinn wird reinvestiert.	The profit is reinvested.
+die Bilanz 	 the balance sheet 	 Die Bilanz zeigt die Finanzen.	The balance sheet shows the finances.
+das Budget 	 the budget 	 Das Budget ist knapp.	The budget is tight.
+die Kosten 	 the costs 	 Die Kosten müssen gesenkt werden.	Costs must be reduced.
+die Ausgabe 	 the expense 	 Die Ausgabe ist notwendig.	The expenditure is necessary.
+die Einnahme 	 the income 	 Die Einnahme ist erfreulich.	The income is pleasing.
+das Einkommen 	 the income 	 Das Einkommen reicht aus.	The income is sufficient.
+der Lohn 	 the wage 	 Der Lohn wird erhöht.	The wage is increased.
+das Gehalt 	 the salary 	 Das Gehalt ist angemessen.	The salary is appropriate.
+die Steuer 	 the tax 	 Die Steuer muss gezahlt werden.	The tax must be paid.
+die Abgabe 	 the fee 	 Die Abgabe ist festgelegt.	The levy is fixed.
+das Sonderangebot 	 the special offer 	 Das Sonderangebot lockt Kunden an.	The special offer attracts customers.
+die Garantie 	 the warranty 	 Die Garantie gilt zwei Jahre.	The warranty is valid for two years.
+die Rückgabe 	 the return 	 Die Rückgabe ist unkompliziert.	The return is uncomplicated.
+der Umtausch 	 the exchange 	 Der Umtausch ist möglich.	The exchange is possible.
+die Reklamation 	 the complaint 	 Die Reklamation wird bearbeitet.	The complaint is processed.
+der Support 	 the support 	 Der Support ist erreichbar.	Support is accessible.
+die Hotline 	 the hotline 	 Die Hotline ist rund um die Uhr besetzt.	The hotline is staffed around the clock.
+der Lieferant 	 the supplier 	 Der Lieferant ist zuverlässig.	The supplier is reliable.
+die Lieferung 	 the delivery 	 Die Lieferung erfolgt morgen.	The delivery is tomorrow.
+der Versand 	 the shipping 	 Der Versand ist kostenlos.	Shipping is free.
+das Paket 	 the package 	 Das Paket ist angekommen.	The package has arrived.
+die Sendung 	 the shipment 	 Die Sendung ist unterwegs.	The shipment is on the way.
+die Post 	 the mail 	 Die Post bringt Briefe.	The post brings letters.
+der Brief 	 the letter 	 Der Brief ist persönlich.	The letter is personal.
+der Anruf 	 the call 	 Der Anruf kommt überraschend.	The call comes unexpectedly.
+das Smartphone 	 the smartphone 	 Das Smartphone hat viele Funktionen.	The smartphone has many functions.
+das Tablet 	 the tablet 	 Das Tablet ist praktisch.	The tablet is practical.
+der Laptop 	 the laptop 	 Der Laptop ist mobil.	The laptop is mobile.
+das Online-Shopping 	 the online shopping 	 Das Online-Shopping ist bequem.	Online shopping is convenient.
+die Plattform 	 the platform 	 Die Plattform ist vielseitig.	The platform is versatile.
+die App 	 the app 	 Die App ist nützlich.	The app is useful.
+die Hardware 	 the hardware 	 Die Hardware ist leistungsstark.	The hardware is powerful.
+der Algorithmus 	 the algorithm 	 Der Algorithmus ist komplex.	The algorithm is complex.
+die Daten 	 the data 	 Die Daten sind geschützt.	The data is protected.
+der Datenschutz 	 the data protection 	 Der Datenschutz ist wichtig.	Data protection is important.
+die Privatsphäre 	 the privacy 	 Die Privatsphäre ist zu respektieren.	Privacy must be respected.
+das Passwort 	 the password 	 Das Passwort ist geheim.	The password is secret.
+der Zugang 	 the access 	 Der Zugang ist beschränkt.	Access is restricted.
+das Netz 	 the net 	 Das Netz ist weitreichend.	The network is extensive.
+der Link 	 the link 	 Der Link führt zur Website.	The link leads to the website.
+der Download 	 the download 	 Der Download startet.	The download starts.
+der Upload 	 the upload 	 Der Upload dauert.	The upload takes time.
+die Datei 	 the file 	 Die Datei ist groß.	The file is large.
+das Format 	 the format 	 Das Format ist kompatibel.	The format is compatible.
+das Dokument 	 the document 	 Das Dokument ist wichtig.	The document is important.
+das PDF 	 the PDF 	 Das PDF ist verbreitet.	The PDF is widespread.
+die Grafik 	 the graphic 	 Die Grafik ist aussagekräftig.	The graphic is meaningful.
+das Video 	 the video 	 Das Video ist beliebt.	The video is popular.
+die Lautstärke 	 the volume 	 Die Lautstärke ist einstellbar.	The volume is adjustable.
+der Kanal 	 the channel 	 Der Kanal ist populär.	The channel is popular.
+der Sender 	 the broadcaster 	 Der Sender ist bekannt.	The broadcaster is known.
+die Serie 	 the series 	 Die Serie ist spannend.	The series is thrilling.
+der Star 	 the star 	 Der Star ist berühmt.	The star is famous.
+der Prominente 	 the celebrity 	 Der Prominente ist in den Schlagzeilen.	The celebrity is in the headlines.
+der Fan 	 the fan 	 Der Fan ist begeistert.	The fan is enthusiastic.
+das Idol 	 the idol 	 Das Idol hat viele Anhänger.	The idol has many followers.
+die Kultur 	 the culture 	 Die Kultur des Landes ist faszinierend.	The country's culture is fascinating.
+die Tradition 	 the tradition 	 Die Tradition wird gepflegt.	Tradition is maintained.
+die Geschichte 	 the history 	 Die Geschichte ist lehrreich.	History is educational.
+das Erbe 	 the heritage 	 Das Erbe wird bewahrt.	The heritage is preserved.
+der Ursprung 	 the origin 	 Der Ursprung ist oft unbekannt.	The origin is often unknown.
+der Einfluss 	 the influence 	 Der Einfluss ist spürbar.	The influence is noticeable.
+das Ritual 	 the ritual 	 Das Ritual ist bedeutungsvoll.	The ritual is meaningful.
+der Brauch 	 the custom 	 Der Brauch ist in der Region verbreitet.	The custom is widespread in the region.
+das Fest 	 the festival 	 Das Fest ist fröhlich.	The festival is cheerful.
+die Feier 	 the celebration 	 Die Feier dauert die ganze Nacht.	The celebration lasts all night.
+das Geschenk 	 the gift 	 Das Geschenk kommt von Herzen.	The gift comes from the heart.
+der Gast 	 the guest 	 Der Gast ist willkommen.	The guest is welcome.
+die Gastfreundschaft 	 the hospitality 	 Die Gastfreundschaft ist beeindruckend.	The hospitality is impressive.
+der Empfang 	 the reception 	 Der Empfang ist herzlich.	The reception is warm.
+die Einladung 	 the invitation 	 Die Einladung ist eine Ehre.	The invitation is an honor.
+das Treffen 	 the meeting 	 Das Treffen ist wichtig.	The meeting is important.
+die Versammlung 	 the assembly 	 Die Versammlung findet morgen statt.	The assembly takes place tomorrow.
+das Event 	 the event 	 Das Event ist gut organisiert.	The event is well organized.
+die Veranstaltung 	 the event 	 Die Veranstaltung zieht viele Besucher an.	The event attracts many visitors.
+die Messe 	 the fair 	 Die Messe präsentiert Neuheiten.	The fair presents novelties.
+die Oper 	 the opera 	 Die Oper ist beeindruckend.	The opera is impressive.
+das Ballett 	 the ballet 	 Das Ballett ist anmutig.	The ballet is graceful.
+das Kino 	 the cinema 	 Das Kino zeigt neue Filme.	The cinema shows new movies.
+die Malerei 	 the painting 	 Die Malerei ist farbenfroh.	The painting is colorful.
+die Fotografie 	 the photography 	 Die Fotografie fängt Momente ein.	Photography captures moments.
+die Literatur 	 the literature 	 Die Literatur ist vielfältig.	Literature is diverse.
+der Roman 	 the novel 	 Der Roman ist ein Bestseller.	The novel is a bestseller.
+das Gedicht 	 the poem 	 Das Gedicht ist tiefgründig.	The poem is profound.
+die Band 	 the band 	 Die Band spielt live.	The band plays live.
+der Sänger 	 the singer (male) 	 Der Sänger hat eine tolle Stimme.	The singer has a great voice.
+die Sängerin 	 the singer (female) 	 Die Sängerin begeistert das Publikum.	The singer captivates the audience.
+das Hobby 	 the hobby 	 Das Hobby macht Spaß.	The hobby is fun.
+die Freizeit 	 the leisure time 	 Die Freizeit ist kostbar.	Leisure time is precious.
+das Spiel 	 the game 	 Das Spiel ist spannend.	The game is thrilling.
+der Sport 	 the sport 	 Der Sport hält fit.	Sport keeps you fit.
+das Training 	 the training 	 Das Training ist anstrengend.	The training is strenuous.
+der Wettkampf 	 the competition 	 Der Wettkampf ist fair.	The competition is fair.
+das Turnier 	 the tournament 	 Das Turnier zieht viele Teilnehmer an.	The tournament attracts many participants.
+die Mannschaft 	 the team 	 Die Mannschaft spielt gut zusammen.	The team plays well together.
+der Sieg 	 the victory 	 Der Sieg ist verdient.	The victory is deserved.
+die Niederlage 	 the defeat 	 Die Niederlage ist enttäuschend.	The defeat is disappointing.
+das Abenteuer 	 the adventure 	 Das Abenteuer beginnt.	The adventure begins.
+die Entdeckung 	 the discovery 	 Die Entdeckung ist aufregend.	The discovery is exciting.
+die Reise 	 the journey 	 Die Reise führt in ferne Länder.	The journey leads to distant countries.
+der Urlaub 	 the vacation 	 Der Urlaub ist erholsam.	The vacation is relaxing.
+die Pause 	 the break 	 Die Pause kommt zur rechten Zeit.	The break comes at the right time.
+die Belastung 	 the strain 	 Die Belastung ist groß.	The stress is high.
+die Anspannung 	 the tension 	 Die Anspannung löst sich.	The tension dissolves.
+die Zufriedenheit 	 the satisfaction 	 Die Zufriedenheit ist spürbar.	Satisfaction is noticeable.
+der Genuss 	 the pleasure 	 Der Genuss steht im Vordergrund.	Pleasure is the priority.
+die Begeisterung 	 the enthusiasm 	 Die Begeisterung ist groß.	The enthusiasm is great.
+die Vision 	 the vision 	 Die Vision ist zukunftsweisend.	The vision is forward-looking.
+die Fantasie 	 the fantasy 	 Die Fantasie kennt keine Grenzen.	The imagination knows no limits.
+die Kreativität 	 the creativity 	 Die Kreativität fließt.	Creativity flows.
+die Inspiration 	 the inspiration 	 Die Inspiration kommt plötzlich.	Inspiration comes suddenly.
+der Einfall 	 the idea/thought 	 Der Einfall ist überraschend.	The idea is surprising.
+die Innovation 	 the innovation 	 Die Innovation verändert alles.	The innovation changes everything.
+die Neuerung 	 the innovation 	 Die Neuerung wird gut angenommen.	The innovation is well received.
+die Veränderung 	 the change 	 Die Veränderung ist spürbar.	The change is noticeable.
+die Entwicklung 	 the development 	 Die Entwicklung ist positiv.	The development is positive.
+der Aufstieg 	 the ascent/rise 	 Der Aufstieg ist beeindruckend.	The rise is impressive.

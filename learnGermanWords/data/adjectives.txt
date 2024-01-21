@@ -1,0 +1,223 @@
+gut 	 good 	 Das Essen war sehr gut. 	The food was very good.
+schön 	 beautiful 	 Der Sonnenuntergang ist wunderschön. 	The sunset is beautiful.
+alt 	 old 	 Mein Großvater ist schon sehr alt. 	My grandfather is very old.
+neu 	 new 	 Ich habe ein neues Auto gekauft. 	I bought a new car.
+jung 	 young 	 Die Kinder sind noch sehr jung. 	The children are still very young.
+groß 	 big 	 Das Haus hat einen großen Garten. 	The house has a big garden.
+klein 	 small 	 Das ist ein kleiner Hund. 	That's a small dog.
+wichtig 	 important 	 Die Prüfung ist sehr wichtig. 	The exam is very important.
+einfach 	 simple 	 Dieses Rezept ist sehr einfach. 	This recipe is very simple.
+schwer 	 heavy 	 Die Kiste ist zu schwer für mich. 	The box is too heavy for me.
+leicht 	 light 	 Das Gepäck ist nicht sehr leicht. 	The luggage is not very light.
+schlecht 	 bad 	 Das Wetter ist heute wirklich schlecht. 	The weather is really bad today.
+billig 	 cheap 	 Diese Kleidung ist sehr billig. 	These clothes are very cheap.
+teuer 	 expensive 	 Das Restaurant ist ziemlich teuer. 	The restaurant is quite expensive.
+lang 	 long 	 Der Film ist sehr lang. 	The movie is very long.
+kurz 	 short 	 Das Kleid ist zu kurz. 	The dress is too short.
+sauber 	 clean 	 Das Zimmer ist sehr sauber. 	The room is very clean.
+schmutzig 	 dirty 	 Die Schuhe sind schmutzig. 	The shoes are dirty.
+heiß 	 hot 	 Das Wasser in der Tasse ist sehr heiß. 	The water in the cup is very hot.
+kalt 	 cold 	 Draußen ist es heute sehr kalt. 	It's very cold outside today.
+hässlich 	 ugly 	 Das Gemälde ist wirklich hässlich. 	The painting is really ugly.
+bekannt 	 famous 	 Dieser Schauspieler ist sehr bekannt. 	This actor is very famous.
+unbekannt 	 unknown 	 Der Autor des Buches ist mir unbekannt. 	The author of the book is unknown to me.
+früh 	 early 	 Wir müssen früh aufstehen morgen. 	We have to wake up early tomorrow.
+spät 	 late 	 Er kam sehr spät zur Party. 	He arrived very late to the party.
+langsam 	 slow 	 Die Zugfahrt war sehr langsam. 	The train ride was very slow.
+schnell 	 fast 	 Das Auto fährt sehr schnell. 	The car drives very fast.
+nah 	 near 	 Der Supermarkt ist ganz in der Nähe. 	The supermarket is very near.
+neugierig 	 curious 	 Kinder sind oft neugierig. 	Children are often curious.
+gelangweilt 	 bored 	 Ich bin gelangweilt von diesem Film. 	I am bored with this movie.
+entspannt 	 relaxed 	 Nach dem Urlaub fühle ich mich entspannt. 	I feel relaxed after the vacation.
+gestresst 	 stressed 	 In der Arbeit bin ich oft gestresst. 	I am often stressed at work.
+gesund 	 healthy 	 Obst und Gemüse sind gesund. 	Fruits and vegetables are healthy.
+krank 	 sick 	 Ich fühle mich heute krank. 	I feel sick today.
+aktiv 	 active 	 Sport hält mich aktiv. 	Sports keep me active.
+faul 	 lazy 	 An manchen Tagen bin ich ziemlich faul. 	I am quite lazy on some days.
+freundlich 	 friendly 	 Sie ist immer sehr freundlich zu anderen. 	She is always very friendly to others.
+unfreundlich 	 unfriendly 	 Sein Verhalten war ziemlich unfreundlich. 	His behavior was quite unfriendly.
+warm 	 warm 	 Der Tee ist noch warm. 	The tea is still warm.
+cool 	 cool (fashionable) 	 Sein Style ist immer sehr cool. 	His style is always very cool.
+modern 	 contemporary 	 Das Gemälde hat ein modernes Design. 	The painting has a contemporary design.
+arm 	 poor 	 Viele Menschen in dieser Region sind arm. 	Many people in this region are poor.
+reich 	 rich 	 Er ist sehr reich und erfolgreich. 	He is very rich and successful.
+unwichtig 	 unimportant 	 Diese Details sind unwichtig. 	These details are unimportant.
+laut 	 noisy 	 In der Stadt ist es immer laut. 	It's always noisy in the city.
+leise 	 quiet (volume) 	 Bitte sei leise im Kino. 	Please be quiet in the cinema.
+müde 	 tired 	 Nach der Arbeit bin ich oft sehr müde. 	I am often very tired after work.
+energiegeladen 	 energetic 	 Die Kinder sind heute sehr energiegeladen. 	The children are very energetic today.
+trocken 	 dry 	 Das Handtuch ist noch trocken. 	The towel is still dry.
+nass 	 wet 	 Die Straße ist nach dem Regen nass. 	The road is wet after the rain.
+ungeduldig 	 anxious 	 Ich bin ungeduldig, die Ergebnisse zu sehen. 	I am anxious to see the results.
+geduldig 	 tolerant 	 Sie ist geduldig mit ihren Kollegen. 	She is patient with her colleagues.
+ängstlich 	 fearful 	 Die Dunkelheit macht mich ängstlich. 	The darkness makes me fearful.
+mutig 	 courageous 	 Er zeigte einen mutigen Einsatz. 	He showed a courageous effort.
+schüchtern 	 shy 	 In neuen Situationen bin ich oft schüchtern. 	I am often shy in new situations.
+verärgert 	 angry 	 Sie war verärgert über die Verspätung. 	She was angry about the delay.
+fröhlich 	 cheerful 	 Die Musik macht mich fröhlich. 	The music makes me cheerful.
+traurig 	 sorrowful 	 Nach dem Verlust fühlte er sich traurig. 	After the loss, he felt sorrowful.
+zufrieden 	 content 	 Ich bin mit dem Ergebnis zufrieden. 	I am content with the result.
+unzufrieden 	 dissatisfied 	 Der Kunde war unzufrieden mit dem Service. 	The customer was dissatisfied with the service.
+ehrlich 	 honest 	 Es ist wichtig, ehrlich zu sein. 	It is important to be honest.
+unehrlich 	 dishonest 	 Betrug ist unehrlich. 	Dishonesty is fraud.
+gesellig 	 sociable 	 Er ist sehr gesellig und mag Partys. 	He is very sociable and enjoys parties.
+introvertiert 	 introverted 	 Sie ist introvertiert und mag Ruhe. 	She is introverted and likes quiet.
+extrovertiert 	 extroverted 	 Er ist extrovertiert und liebt Geselligkeit. 	He is extroverted and loves socializing.
+geschickt 	 skillful 	 Er ist ein geschickter Handwerker. 	He is a skillful craftsman.
+toll 	 fantastic 	 Das Konzert gestern Abend war toll. 	The concert last night was fantastic.
+furchtlos 	 fearless 	 Der Abenteurer ist furchtlos. 	The adventurer is fearless.
+zuverlässig 	 reliable 	 Sie ist eine zuverlässige Freundin. 	She is a reliable friend.
+unzuverlässig 	 unreliable 	 Dieses Auto ist unzuverlässig. 	This car is unreliable.
+selbstbewusst 	 self-confident 	 Mit mehr Selbstbewusstsein kannst du alles erreichen. 	With more self-confidence, you can achieve anything.
+unsicher 	 insecure 	 Er fühlt sich oft unsicher in sozialen Situationen. 	He often feels insecure in social situations.
+lustig 	 funny 	 Der Komiker ist sehr lustig. 	The comedian is very funny.
+ernst 	 serious 	 Diese Diskussion ist ernst. 	This discussion is serious.
+begeistert 	 excited 	 Die Kinder sind begeistert von der Idee. 	The children are excited about the idea.
+gelassen 	 relaxed 	 Er bleibt immer gelassen, auch unter Druck. 	He always stays relaxed, even under pressure.
+streng 	 strict 	 Der Lehrer ist ziemlich streng. 	The teacher is quite strict.
+nachlässig 	 careless 	 Das war eine nachlässige Handlung. 	That was a careless act.
+gedankenlos 	 thoughtless 	 Es war gedankenlos, ihn so anzusprechen. 	It was thoughtless to address him like that.
+charmant 	 charming 	 Er ist ein sehr charmanter Gastgeber. 	He is a very charming host.
+unhöflich 	 rude 	 Sein Verhalten war unhöflich. 	His behavior was rude.
+höflich 	 polite 	 Sie ist immer höflich zu anderen. 	She is always polite to others.
+herzlich 	 warm-hearted 	 Die Familie ist herzlich und gastfreundlich. 	The family is warm-hearted and hospitable.
+rücksichtsvoll 	 considerate 	 Sie ist immer rücksichtsvoll gegenüber anderen. 	She is always considerate of others.
+gleichgültig 	 indifferent 	 Seine Antwort war gleichgültig. 	His response was indifferent.
+entschlossen 	 determined 	 Sie ist entschlossen, ihr Ziel zu erreichen. 	She is determined to achieve her goal.
+zögerlich 	 hesitant 	 Er ist zögerlich, Risiken einzugehen. 	He is hesitant to take risks.
+aufgeschlossen 	 open-minded 	 Sie ist sehr aufgeschlossen für neue Ideen. 	She is very open-minded about new ideas.
+engstirnig 	 narrow-minded 	 Seine Ansichten sind leider engstirnig. 	His views are unfortunately narrow-minded.
+enthusiastisch 	 enthusiastic 	 Er ist enthusiastisch über das Projekt. 	He is enthusiastic about the project.
+desinteressiert 	 uninterested 	 Die Schüler wirkten desinteressiert am Thema. 	The students seemed uninterested in the topic.
+ruhig 	 calm 	 Die Situation ist jetzt ruhig. 	The situation is calm now.
+hektisch 	 hectic 	 Die Stadt ist immer hektisch. 	The city is always hectic.
+aufgeregt 	 thrilled 	 Sie ist aufgeregt wegen ihrer Reise. 	She is thrilled about her trip.
+temperamentvoll 	 passionate 	 Sie ist temperamentvoll über ihre Arbeit. 	She is passionate about her work.
+pessimistisch 	 pessimistic 	 Er neigt dazu, pessimistisch zu sein. 	He tends to be pessimistic.
+optimistisch 	 optimistic 	 Sie ist immer optimistisch, selbst in schwierigen Zeiten. 	She is always optimistic, even in difficult times.
+zuversichtlich 	 confident 	 Er ist zuversichtlich in seine Fähigkeiten. 	He is confident in his abilities.
+nervös 	 nervous 	 Vor der Präsentation bin ich immer nervös. 	I am always nervous before presentations.
+kritisch 	 critical 	 Er hat eine kritische Einstellung gegenüber neuen Ideen. 	He has a critical attitude towards new ideas.
+selbstkritisch 	 self-critical 	 Sie ist sehr selbstkritisch und will immer besser werden. 	She is very self-critical and always strives to improve.
+stressig 	 stressful 	 Die Arbeit kann manchmal sehr stressig sein. 	Work can sometimes be very stressful.
+ehrgeizig 	 ambitious 	 Er hat ehrgeizige Pläne für die Zukunft. 	He has ambitious plans for the future.
+bescheiden 	 modest 	 Sie ist trotz ihres Erfolgs sehr bescheiden geblieben. 	Despite her success, she has remained very modest.
+arrogant 	 arrogant 	 Sein arrogantes Verhalten stößt viele Menschen ab. 	His arrogant behavior repels many people.
+tolerant 	 tolerant 	 Die Gesellschaft sollte tolerant gegenüber verschiedenen Ansichten sein. 	Society should be tolerant of different viewpoints.
+intolerant 	 intolerant 	 Intoleranz kann zu Konflikten führen. 	Intolerance can lead to conflicts.
+ziellos 	 aimless 	 Er scheint ein zielloses Leben zu führen. 	He seems to lead an aimless life.
+vorsichtig 	 cautious 	 Bei schlechtem Wetter sollten wir vorsichtig fahren. 	We should drive cautiously in bad weather.
+aufmerksam 	 attentive 	 Er ist immer aufmerksam zu seinen Freunden. 	He is always attentive to his friends.
+unaufmerksam 	 inattentive 	 Seine unaufmerksame Art kann ärgerlich sein. 	His inattentive behavior can be annoying.
+verständnisvoll 	 understanding 	 Sie ist sehr verständnisvoll und hört gut zu. 	She is very understanding and listens well.
+unverständlich 	 incomprehensible 	 Seine Antwort war völlig unverständlich. 	His response was completely incomprehensible.
+kreativ 	 creative 	 Sie hat eine kreative Ader und malt gern. 	She has a creative streak and enjoys painting.
+einfallslos 	 unimaginative 	 Sein Vorschlag war wirklich einfallslos. 	His suggestion was truly unimaginative.
+vernünftig 	 sensible 	 Eine vernünftige Entscheidung zu treffen ist wichtig. 	Making a sensible decision is important.
+unvernünftig 	 unreasonable 	 Sein Verhalten war völlig unvernünftig. 	His behavior was completely unreasonable.
+vertrauenswürdig 	 trustworthy 	 Sie ist eine vertrauenswürdige Person, der man vertrauen kann. 	She is a trustworthy person whom you can trust.
+hilfsbereit 	 helpful 	 Sie ist immer hilfsbereit, wenn jemand Hilfe braucht. 	She is always helpful when someone needs assistance.
+egoistisch 	 selfish 	 Sein egoistisches Verhalten ist ärgerlich. 	His selfish behavior is annoying.
+großzügig 	 generous 	 Er ist großzügig und teilt gerne. 	He is generous and likes to share.
+geizig 	 stingy 	 Er ist geizig und gibt ungern Geld aus. 	He is stingy and reluctant to spend money.
+fleißig 	 diligent 	 Sie ist sehr fleißig in ihrer Arbeit. 	She is very diligent in her work.
+gesprächig 	 talkative 	 Sie ist sehr gesprächig und unterhält gerne Leute. 	She is very talkative and enjoys engaging with people.
+schweigsam 	 silent 	 Er ist schweigsam und sagt nicht viel. 	He is silent and doesn't say much.
+fahrlässig 	 negligent 	 Sein fahrlässiges Verhalten führte zu einem Unfall. 	His negligent behavior led to an accident.
+einsam 	 lonely 	 Sie fühlt sich oft einsam, wenn sie alleine ist. 	She often feels lonely when she's alone.
+romantisch 	 romantic 	 Ein romantischer Abend zu zweit ist schön. 	A romantic evening for two is lovely.
+realistisch 	 realistic 	 Es ist wichtig, realistische Ziele zu setzen. 	It's important to set realistic goals.
+impulsiv 	 impulsive 	 Er trifft oft impulsiv Entscheidungen. 	He often makes impulsive decisions.
+bedacht 	 deliberate 	 Ihre Entscheidungen sind immer gut bedacht. 	Her decisions are always well deliberate.
+selbstsicher 	 self-assured 	 Sie wirkt immer selbstsicher in ihren Entscheidungen. 	She always appears self-assured in her decisions.
+neidisch 	 envious 	 Ihr neidisches Verhalten ist ungesund. 	Her envious behavior is unhealthy.
+konservativ 	 conservative 	 Seine politischen Ansichten sind eher konservativ. 	His political views are rather conservative.
+liberal 	 liberal 	 Sie setzt sich für liberale Ideen und Rechte ein. 	She advocates for liberal ideas and rights.
+umweltbewusst 	 environmentally conscious 	 Wir sollten umweltbewusste Entscheidungen treffen. 	We should make environmentally conscious choices.
+verschwenderisch 	 wasteful 	 Verschwenderisches Verhalten ist nicht nachhaltig. 	Wasteful behavior is not sustainable.
+unaufgeschlossen 	 close-minded 	 Eine unaufgeschlossene Haltung kann Fortschritt behindern. 	A close-minded attitude can hinder progress.
+anpassungsfähig 	 adaptable 	 Anpassungsfähigkeit ist eine wichtige Fähigkeit. 	Adaptability is an important skill.
+stur 	 stubborn 	 Er ist manchmal zu stur, um seine Meinung zu ändern. 	He is sometimes too stubborn to change his mind.
+flexibel 	 flexible 	 Flexibilität ist in der heutigen Arbeitswelt entscheidend. 	Flexibility is crucial in today's workplace.
+starr 	 rigid 	 Die Regeln sind zu starr und lassen keine Ausnahmen zu. 	The rules are too rigid and do not allow for exceptions.
+zufriedenstellend 	 satisfactory 	 Die Ergebnisse waren zufriedenstellend. 	The results were satisfactory.
+unbefriedigend 	 unsatisfactory 	 Das war eine unbefriedigende Antwort auf die Frage. 	That was an unsatisfactory response to the question.
+überzeugt 	 convinced 	 Er ist fest davon überzeugt, dass er recht hat. 	He is convinced that he is right.
+skeptisch 	 skeptical 	 Sie war skeptisch gegenüber seinen Behauptungen. 	She was skeptical of his claims.
+autoritär 	 authoritarian 	 Ein autoritäres Regime unterdrückt oft die Meinungsfreiheit. 	An authoritarian regime often suppresses freedom of speech.
+demokratisch 	 democratic 	 Ein demokratisches System basiert auf dem Willen des Volkes. 	A democratic system is based on the will of the people.
+erfahren 	 experienced 	 Er ist ein erfahrener Experte auf diesem Gebiet. 	He is an experienced expert in this field.
+unerfahren 	 inexperienced 	 Das war eine unerfahrene Entscheidung. 	That was an inexperienced decision.
+nachdenklich 	 pensive 	 Sein nachdenkliches Gesichtsausdruck deutete auf tiefe Gedanken hin. 	His pensive expression suggested deep thoughts.
+lebhaft 	 lively 	 Die Party war sehr lebhaft und voller Energie. 	The party was very lively and full of energy.
+langweilig 	 tedious 	 Das war eine lange und langweilige Vorlesung. 	That was a long and tedious lecture.
+spannend 	 thrilling 	 Der Krimi war spannend und fesselnd. 	The detective novel was thrilling and captivating.
+überzeugend 	 persuasive 	 Seine Argumente waren sehr überzeugend. 	His arguments were very persuasive.
+belanglos 	 trivial 	 Das Gespräch drehte sich um belanglose Themen. 	The conversation revolved around trivial topics.
+originell 	 original 	 Ihr originelles Kunstwerk beeindruckte die Kritiker. 	Her original artwork impressed the critics.
+klischeehaft 	 cliché 	 Der Film enthielt viele klischeehafte Elemente. 	The movie had many cliché elements.
+chaotisch 	 chaotic 	 Das Zimmer war nach der Party chaotisch. 	The room was chaotic after the party.
+organisiert 	 organized 	 Sie ist sehr organisiert und behält immer den Überblick. 	She is very organized and always keeps track of things.
+kompetent 	 competent 	 Das Team ist äußerst kompetent in seiner Arbeit. 	The team is highly competent in its work.
+inkompetent 	 incompetent 	 Seine inkompetente Führung führte zu Problemen im Projekt. 	His incompetent leadership led to problems in the project.
+inspirierend 	 inspiring 	 Ihr Vortrag war inspirierend und motivierend. 	Her speech was inspiring and motivating.
+entmutigend 	 discouraging 	 Die Ergebnisse waren entmutigend. 	The results were discouraging.
+witzig 	 humorous 	 Seine witzigen Bemerkungen brachten alle zum Lachen. 	His humorous remarks made everyone laugh.
+humorlos 	 humorless 	 Sein humorloses Verhalten störte die Stimmung. 	His humorless behavior dampened the mood.
+geheimnisvoll 	 mysterious 	 Der Wald bei Nacht wirkt geheimnisvoll. 	The forest at night seems mysterious.
+vorhersehbar 	 predictable 	 Die Handlung des Films war ziemlich vorhersehbar. 	The plot of the movie was quite predictable.
+verständlich 	 understandable 	 Die Anleitung war gut verständlich. 	The instructions were easy to understand.
+ordentlich 	 tidy 	 Ihr Zimmer ist immer sehr ordentlich. 	Her room is always very tidy.
+unordentlich 	 messy 	 Sein Schreibtisch ist sehr unordentlich. 	His desk is very messy.
+interessant 	 interesting 	 Das Buch war sehr interessant zu lesen. 	The book was very interesting to read.
+sicher 	 safe 	 Dieser Ort ist sicher für Kinder. 	This place is safe for children.
+gefährlich 	 dangerous 	 Das ist eine gefährliche Situation. 	This is a dangerous situation.
+hell 	 bright 	 Die Sonne scheint hell am Himmel. 	The sun is shining bright in the sky.
+dunkel 	 dark 	 In der Nacht ist es dunkel draußen. 	It's dark outside at night.
+frisch 	 fresh 	 Das Brot riecht nach frischem Gebäck. 	The bread smells like fresh baked goods.
+altmodisch 	 old-fashioned 	 Ihr Kleid hat ein altmodisches Design. 	Her dress has an old-fashioned design.
+innovativ 	 innovative 	 Diese Firma ist für ihre innovativen Produkte bekannt. 	This company is known for its innovative products.
+traditionell 	 traditional 	 Dieses Gericht ist ein traditionelles Familienrezept. 	This dish is a traditional family recipe.
+sauer 	 sour 	 Die Zitrone schmeckt sauer. 	The lemon tastes sour.
+süß 	 sweet 	 Schokolade ist bekannt für ihren süßen Geschmack. 	Chocolate is known for its sweet taste.
+bitter 	 bitter 	 Der Kaffee war zu bitter. 	The coffee was too bitter.
+salzig 	 salty 	 Die Pommes waren sehr salzig. 	The fries were very salty.
+scharf 	 spicy 	 Das Curry ist ziemlich scharf. 	The curry is quite spicy.
+mild 	 mild 	 Dieses Gericht ist nicht allzu scharf, es ist mild gewürzt. 	This dish is not too spicy; it's mild.
+fettig 	 greasy 	 Das Fast-Food-Essen ist oft fettig. 	Fast food is often greasy.
+ungesund 	 unhealthy 	 Zu viel Zucker ist ungesund. 	Too much sugar is unhealthy.
+kalorienreich 	 high-calorie 	 Eiscreme ist kalorienreich und sollte in Maßen genossen werden. 	Ice cream is high in calories and should be enjoyed in moderation.
+kalorienarm 	 low-calorie 	 Salat ist kalorienarm und eine gute Option für eine leichte Mahlzeit. 	Salad is low in calories and a good option for a light meal.
+köstlich 	 delicious 	 Das Essen in diesem Restaurant ist immer köstlich. 	The food at this restaurant is always delicious.
+widerlich 	 disgusting 	 Der Geschmack war wirklich widerlich. 	The taste was truly disgusting.
+appetitlich 	 appetizing 	 Das Gericht sieht sehr appetitlich aus. 	The dish looks very appetizing.
+fade 	 bland 	 Das Essen war ziemlich fade, es fehlte an Gewürzen. 	The food was quite bland; it lacked spices.
+fruchtig 	 fruity 	 Der Saft hat einen fruchtigen Geschmack. 	The juice has a fruity flavor.
+egozentrisch 	 egocentric 	 Sein egozentrisches Verhalten dreht sich immer um ihn selbst. 	His egocentric behavior always revolves around himself.
+empfindlich 	 sensitive 	 Er ist empfindlich gegenüber Kritik. 	He is sensitive to criticism.
+gehässig 	 spiteful 	 Ihre gehässigen Kommentare verletzen andere. 	Her spiteful comments hurt others.
+respektvoll 	 respectful 	 Ein respektvolles Verhalten ist in jeder Situation wichtig. 	Respectful behavior is important in every situation.
+respektlos 	 disrespectful 	 Ihr respektloses Verhalten wurde nicht toleriert. 	Her disrespectful behavior was not tolerated.
+klug 	 clever 	 Er ist sehr klug und findet immer Lösungen. 	He is very clever and always finds solutions.
+dumm 	 foolish 	 Sein dummer Fehler führte zu Problemen. 	His foolish mistake led to problems.
+phantasievoll 	 imaginative 	 Ihre phantasievollen Geschichten begeistern Kinder. 	Her imaginative stories captivate children.
+entscheidungsfreudig 	 decisive 	 In schwierigen Situationen ist Entscheidungsfreude wichtig. 	Decisiveness is important in difficult situations.
+unentschlossen 	 indecisive 	 Seine unentschlossene Natur kann frustrierend sein. 	His indecisive nature can be frustrating.
+energielos 	 lethargic 	 Nach einer langen Reise fühle ich mich oft energielos. 	After a long journey, I often feel lethargic.
+tapfer 	 brave 	 Er zeigte tapferen Mut in der gefährlichen Situation. 	He displayed brave courage in the dangerous situation.
+feige 	 cowardly 	 Sein feiges Verhalten enttäuschte alle. 	His cowardly behavior disappointed everyone.
+dünn 	 thin 	 Sie ist von Natur aus dünn. 	She is naturally thin.
+dick 	 thick 	 Diese Decke ist dick und warm. 	This blanket is thick and warm.
+stark 	 strong 	 Er ist physisch sehr stark. 	He is physically very strong.
+schwach 	 weak 	 Ihre Gesundheit ist momentan schwach. 	Her health is currently weak.
+begabt 	 talented 	 Sie ist musikalisch begabt und spielt mehrere Instrumente. 	She is musically talented and plays several instruments.
+untalentiert 	 untalented 	 Sein Versuch zu malen war untalentiert. 	His attempt at painting was untalented.
+hilfreich 	 helpful 	 Deine Unterstützung war sehr hilfreich. 	Your support was very helpful.
+hinderlich 	 unhelpful 	 Seine Kommentare waren eher hinderlich als hilfreich. 	His comments were more unhelpful than helpful.
+überlegt 	 thoughtful 	 Seine überlegten Antworten beeindrucken die Lehrerin. 	His thoughtful responses impress the teacher.
+rücksichtslos 	 inconsiderate 	 Ihr rücksichtsloses Verhalten verletzt Gefühle. 	Her inconsiderate behavior hurts feelings.
+schick 	 chic 	 Ihr Outfit sah wirklich schick aus. 	Her outfit looked really chic.
+schäbig 	 shabby 	 Das alte Sofa sieht ziemlich schäbig aus. 	The old sofa looks quite shabby.
+attraktiv 	 attractive 	 Sie ist eine attraktive Person. 	She is an attractive person.
+sympathisch 	 likable 	 Er ist eine sehr sympathische Person. 	He is a very likable person.
+unsympathisch 	 unlikable 	 Sein unsympathisches Verhalten hat ihn isoliert. 	His unlikable behavior has isolated him.

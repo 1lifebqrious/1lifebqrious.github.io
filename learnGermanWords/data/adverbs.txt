@@ -1,0 +1,134 @@
+schon 	 already 	 Ich habe das Buch schon gelesen. 	I have already read the book.
+nicht 	 not 	 Das Essen ist nicht schlecht. 	The food is not bad.
+auch 	 also, too 	 Ich möchte auch ein Eis. 	I would like ice cream too.
+sehr 	 very 	 Das Konzert war sehr laut. 	The concert was very loud.
+vielleicht 	 perhaps, maybe 	 Vielleicht gehe ich morgen einkaufen. 	Maybe I will go shopping tomorrow.
+jetzt 	 now 	 Kannst du jetzt kommen? 	Can you come now?
+immer 	 always 	 Sie ist immer pünktlich. 	She is always on time.
+hier 	 here 	 Das Buch ist hier. 	The book is here.
+fast 	 almost 	 Ich bin fast fertig. 	I am almost finished.
+gerade 	 just, right now 	 Er ist gerade angekommen. 	He just arrived.
+wirklich 	 really 	 Das ist wirklich interessant. 	That is really interesting.
+so 	 so, thus 	 Er hat so viel gearbeitet. 	He has worked so much.
+oft 	 often 	 Ich gehe oft ins Kino. 	I often go to the cinema.
+eigentlich 	 actually 	 Eigentlich mag ich keine Tomaten. 	Actually, I don't like tomatoes.
+etwa 	 about, approximately 	 Das kostet etwa 10 Euro. 	That costs about 10 euros.
+gern 	 gladly 	 Ich komme gern zu deiner Party. 	I will gladly come to your party.
+nie 	 never 	 Ich trinke nie Kaffee. 	I never drink coffee.
+dort 	 there 	 Der Park ist dort. 	The park is there.
+manchmal 	 sometimes 	 Manchmal regnet es hier. 	Sometimes it rains here.
+erst 	 only, just 	 Ich habe es erst gestern gehört. 	I heard about it only yesterday.
+heute 	 today 	 Das Wetter ist heute schön. 	The weather is nice today.
+trotzdem 	 nevertheless 	 Es regnet, aber wir gehen trotzdem spazieren. 	It's raining, but we're going for a walk nevertheless.
+bald 	 soon 	 Wir sehen uns bald wieder. 	We'll see each other again soon.
+gleich 	 immediately 	 Ich komme gleich zurück. 	I'll be back immediately.
+deshalb 	 therefore 	 Es regnet, deshalb bleibe ich zu Hause. 	It's raining, therefore I'm staying home.
+besonders 	 especially 	 Dieses Buch ist besonders interessant. 	This book is especially interesting.
+eben 	 just 	 Ich habe das eben vergessen. 	I just forgot that.
+ziemlich 	 quite 	 Das Essen ist ziemlich lecker. 	The food is quite tasty.
+hoffentlich 	 hopefully 	 Hoffentlich wird das Wetter besser. 	Hopefully, the weather will improve.
+einfach 	 simply 	 Das ist einfach zu verstehen. 	That is simply to understand.
+kaum 	 hardly 	 Ich habe kaum Zeit. 	I have hardly any time.
+gar nicht 	 not at all 	 Das ist gar nicht lustig. 	That is not funny at all.
+genug 	 enough 	 Wir haben genug Wasser. 	We have enough water.
+bisher 	 so far 	 Bisher gab es keine Probleme. 	So far, there have been no problems.
+wahrscheinlich 	 probably 	 Er kommt wahrscheinlich später. 	He will probably come later.
+sofort 	 immediately 	 Rufen Sie sofort die Polizei. 	Call the police immediately.
+dann 	 then 	 Ich gehe ins Büro und dann zum Markt. 	I'm going to the office, and then to the market.
+irgendwie 	 somehow 	 Wir müssen das irgendwie lösen. 	We need to solve this somehow.
+gleichzeitig 	 simultaneously 	 Die beiden Veranstaltungen finden gleichzeitig statt. 	The two events are happening simultaneously.
+gestern 	 yesterday 	 Ich habe ihn gestern gesehen. 	I saw him yesterday.
+heute Abend 	 tonight 	 Wir gehen heute Abend ins Kino. 	We're going to the cinema tonight.
+ständig 	 constantly 	 Er ist ständig am Telefon. 	He is constantly on the phone.
+wieso 	 why 	 Wieso bist du so spät? 	Why are you so late?
+endlich 	 finally 	 Endlich ist der Winter vorbei. 	Finally, winter is over.
+sicher 	 surely 	 Sie wird sicher gewinnen. 	She will surely win.
+irgendwo 	 somewhere 	 Ich habe meine Brille irgendwo verlegt. 	I misplaced my glasses somewhere.
+gestern Abend 	 last night 	 Wir haben gestern Abend ferngesehen. 	We watched TV last night.
+ebenso 	 likewise 	 Du bist ebenso klug wie dein Bruder. 	You are likewise as smart as your brother.
+genau 	 exactly 	 Das ist genau das, was ich wollte. 	That is exactly what I wanted.
+nirgendwo 	 nowhere 	 Es ist nirgendwo zu finden. 	It's nowhere to be found.
+plötzlich 	 suddenly 	 Plötzlich fing es an zu regnen. 	Suddenly, it started to rain.
+mindestens 	 at least 	 Du musst mindestens zwei Stunden warten. 	You have to wait at least two hours.
+ebenfalls 	 also 	 Er ist ebenfalls interessiert. 	He is also interested.
+vorher 	 beforehand 	 Ich rufe dich vorher an. 	I'll call you beforehand.
+zuerst 	 first 	 Zuerst müssen wir planen. 	First, we need to plan.
+morgen 	 tomorrow 	 Wir sehen uns morgen. 	We'll see each other tomorrow.
+zurück 	 back 	 Bitte kommen Sie später zurück. 	Please come back later.
+langsam 	 slowly 	 Wir gehen langsam spazieren. 	We are walking slowly.
+selten 	 rarely 	 Er kommt selten zu Besuch. 	He rarely comes to visit.
+bereits 	 already 	 Ich habe bereits bezahlt. 	I have already paid.
+früher 	 earlier 	 Wir haben uns früher getroffen. 	We met earlier.
+morgen früh 	 tomorrow morning 	 Ich werde dich morgen früh anrufen. 	I will call you tomorrow morning.
+sonst 	 otherwise 	 Du musst lernen, sonst wirst du die Prüfung nicht bestehen. 	You have to study, otherwise you won't pass the exam.
+oben 	 upstairs 	 Das Schlafzimmer ist oben. 	The bedroom is upstairs.
+unten 	 downstairs 	 Die Küche ist unten. 	The kitchen is downstairs.
+zusammen 	 together 	 Wir gehen gerne zusammen ins Kino. 	We like going to the cinema together.
+hinten 	 at the back 	 Die Parkplätze sind hinten. 	The parking spaces are at the back.
+draußen 	 outside 	 Die Kinder spielen draußen im Garten. 	The children are playing outside in the garden.
+mittlerweile 	 in the meantime 	 Mittlerweile habe ich einen neuen Job gefunden. 	In the meantime, I have found a new job.
+weiter 	 further 	 Gehen Sie bitte weiter. 	Please go further.
+vorne 	 at the front 	 Die Bühne ist vorne. 	The stage is at the front.
+tatsächlich 	 in fact 	 Tatsächlich war es gar nicht so schwer. 	In fact, it wasn't that difficult at all.
+dabei 	 with it 	 Ich habe meinen Regenschirm dabei. 	I have my umbrella with me.
+währenddessen 	 in the meantime 	 Er arbeitete, währenddessen sie ausruhte. 	He worked while she rested in the meantime.
+abends 	 in the evening 	 Wir gehen oft abends aus. 	We often go out in the evening.
+seitdem 	 since then 	 Seitdem hat sich viel verändert. 	Since then, a lot has changed.
+weit 	 far 	 Der Supermarkt ist nicht weit von hier. 	The supermarket is not far from here.
+seltsamerweise 	 strangely 	 Seltsamerweise habe ich meinen Schlüssel verloren. 	Strangely, I lost my key.
+allein 	 alone 	 Manchmal genieße ich es, allein zu sein. 	Sometimes I enjoy being alone.
+mittags 	 at noon 	 Wir essen mittags immer zusammen. 	We always eat together at noon.
+einmal 	 once 	 Ich habe das nur einmal gemacht. 	I have only done that once.
+später 	 later 	 Wir sehen uns später im Park. 	We'll meet later in the park.
+überall 	 everywhere 	 Die Blumen blühen überall im Garten. 	The flowers are blooming everywhere in the garden.
+überhaupt 	 at all 	 Ich verstehe das überhaupt nicht. 	I don't understand that at all.
+meistens 	 mostly 	 Meistens esse ich zu Hause. 	I mostly eat at home.
+damals 	 back then 	 Damals gab es noch keine Handys. 	Back then, there were no mobile phones.
+nachher 	 afterwards 	 Wir trinken einen Kaffee nachher. 	We'll have coffee afterwards.
+links 	 left 	 Die Bank ist links von der Tür. 	The bench is on the left side of the door.
+rechts 	 right 	 Das Restaurant ist rechts von hier. 	The restaurant is on the right from here.
+jedenfalls 	 in any case 	 Jedenfalls sollten wir es versuchen. 	In any case, we should try it.
+einander 	 each other 	 Wir helfen einander immer. 	We always help each other.
+sicherlich 	 certainly 	 Das ist sicherlich möglich. 	That is certainly possible.
+früh 	 early 	 Er steht immer sehr früh auf. 	He always gets up very early.
+zuletzt 	 lastly 	 Zuletzt möchte ich noch sagen, dass... 	Lastly, I would like to say that...
+vorwärts 	 forward 	 Wir gehen vorwärts, nicht rückwärts. 	We go forward, not backward.
+auf einmal 	 suddenly 	 Auf einmal fing es an zu regnen. 	Suddenly, it started to rain.
+direkt 	 directly 	 Die U-Bahn fährt direkt ins Zentrum. 	The subway goes directly to the city center.
+jeweils 	 respectively 	 Die beiden Teams gewannen jeweils ein Spiel. 	The two teams each won one game, respectively.
+knapp 	 narrowly 	 Sie hat knapp gewonnen. 	She won narrowly.
+drinnen 	 inside 	 Die Kinder spielen drinnen. 	The children are playing inside.
+diesmal 	 this time 	 Diesmal bin ich pünktlich. 	This time, I am on time.
+sowieso 	 anyhow 	 Ich gehe sowieso ins Kino. 	I am going to the cinema anyhow.
+genauso 	 just as 	 Ich denke genauso wie du. 	I think just as you do.
+tagsüber 	 during the day 	 Tagsüber ist es warm, aber nachts kalt. 	During the day, it's warm, but at night, it's cold.
+danach 	 after that 	 Wir können danach ins Restaurant gehen. 	We can go to the restaurant after that.
+übermorgen 	 the day after tomorrow 	 Wir treffen uns übermorgen im Park. 	We'll meet in the park the day after tomorrow.
+immerhin 	 after all 	 Das Essen war kalt, aber immerhin haben wir gegessen. 	The food was cold, but after all, we ate.
+gestern Morgen 	 yesterday morning 	 Ich habe gestern Morgen ein schönes Frühstück gehabt. 	I had a nice breakfast yesterday morning.
+soweit 	 as far as 	 Soweit ich weiß, ist er im Urlaub. 	As far as I know, he is on vacation.
+nie wieder 	 never again 	 Ich werde nie wieder so etwas tun. 	I will never do something like that again.
+stattdessen 	 instead 	 Ich nehme Tee statt Kaffee. 	I'll have tea instead of coffee.
+einigermaßen 	 somewhat 	 Das Essen war einigermaßen gut. 	The food was somewhat good.
+nebenan 	 next door 	 Unsere Nachbarn wohnen nebenan. 	Our neighbors live next door.
+immer wieder 	 repeatedly 	 Er macht immer wieder denselben Fehler. 	He makes the same mistake repeatedly.
+seitwärts 	 sideways 	 Das Auto parkte seitwärts zur Straße. 	The car was parked sideways to the street.
+morgens 	 in the mornings 	 Morgens trinke ich immer Kaffee. 	I always drink coffee in the mornings.
+irgendwann 	 sometime 	 Wir sollten uns irgendwann treffen. 	We should meet sometime.
+hierhin 	 here 	 Komm hierhin, ich zeige es dir. 	Come here, I'll show you.
+heute Nacht 	 tonight 	 Wir gehen heute Nacht ins Theater. 	We're going to the theater tonight.
+sowohl 	 both 	 Sowohl er als auch sie sind eingeladen. 	Both he and she are invited.
+vorn 	 up front 	 Die besten Plätze sind vorn. 	The best seats are up front.
+gegenüber 	 opposite 	 Das Restaurant ist gegenüber dem Park. 	The restaurant is opposite the park.
+täglich 	 daily 	 Täglich gehe ich eine Stunde spazieren. 	I go for a one-hour walk daily.
+irgendwohin 	 somewhere 	 Wir fahren irgendwohin für die Ferien. 	We are going somewhere for the holidays.
+überallhin 	 everywhere 	 Wir können überallhin reisen. 	We can travel everywhere.
+heute Morgen 	 this morning 	 Ich habe heute Morgen gefrühstückt. 	I had breakfast this morning.
+weiterhin 	 furthermore 	 Ich werde weiterhin hart arbeiten. 	I will work hard furthermore.
+innen 	 inside 	 Das Buch liegt innen in der Schublade. 	The book is inside the drawer.
+nirgends 	 nowhere 	 Er konnte seine Schlüssel nirgends finden. 	He couldn't find his keys anywhere.
+nachts 	 at night 	 Nachts kann man die Sterne sehen. 	You can see the stars at night.
+niemals 	 never 	 Ich würde niemals lügen. 	I would never lie.
+zunächst 	 initially 	 Zunächst hatte ich Zweifel, aber jetzt bin ich sicher. 	Initially, I had doubts, but now I'm certain.
+darüber hinaus 	 furthermore 	 Die Idee ist gut, aber darüber hinaus teuer. 	The idea is good, but furthermore, it's expensive.
+nirgendwohin 	 nowhere 	 Ich gehe nirgendwohin ohne meinen Hund. 	I go nowhere without my dog.

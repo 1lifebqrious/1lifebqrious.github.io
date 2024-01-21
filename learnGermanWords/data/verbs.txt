@@ -1,0 +1,388 @@
+sein 	 to be 	 Er ist Lehrer von Beruf.	He is a teacher by profession.
+haben 	 to have 	 Sie hat zwei Kinder.	She has two children.
+werden 	 to become 	 Er wird Arzt.	He will become a doctor.
+können 	 can, to be able to 	 Ich kann Deutsch sprechen.	I can speak German.
+müssen 	 must, to have to 	 Du musst jetzt gehen.	You must go now.
+sagen 	 to say 	 Sie sagt, dass sie müde ist.	She says that she is tired.
+machen 	 to do, make 	 Ich mache meine Hausaufgaben.	I am doing my homework.
+geben 	 to give 	 Er gibt mir das Buch.	He gives me the book.
+kommen 	 to come 	 Sie kommt aus Deutschland.	She is from Germany.
+sollen 	 should, ought to 	 Du sollst deine Eltern respektieren.	You should respect your parents.
+wollen 	 to want 	 Ich will ein Eis essen.	I want to eat an ice cream.
+gehen 	 to go 	 Wir gehen ins Kino.	We are going to the cinema.
+wissen 	 to know 	 Ich weiß die Antwort nicht.	I don't know the answer.
+sehen 	 to see 	 Sie sieht den Vogel.	She sees the bird.
+lassen 	 to let, leave 	 Lass uns gehen!	Let's go!
+stehen 	 to stand 	 Das Buch steht auf dem Tisch.	The book is on the table.
+finden 	 to find 	 Ich finde meinen Schlüssel nicht.	I can't find my key.
+bleiben 	 to stay 	 Bleib ruhig!	Stay calm!
+liegen 	 to lie, be lying 	 Die Zeitung liegt auf dem Tisch.	The newspaper is on the table.
+heißen 	 to be called 	 Ich heiße Anna.	My name is Anna.
+denken 	 to think 	 Ich denke an dich.	I think of you.
+nehmen 	 to take 	 Nimm einen Keks!	Take a cookie!
+tun 	 to do 	 Was tust du?	What are you doing?
+dürfen 	 may, to be allowed to 	 Darf ich hier sitzen?	May I sit here?
+glauben 	 to believe 	 Ich glaube dir.	I believe you.
+halten 	 to hold, stop 	 Halt die Tür auf!	Hold the door open!
+nennen 	 to call, name 	 Er nennt mich seinen Freund.	He calls me his friend.
+mögen 	 to like 	 Ich mag Schokolade.	I like chocolate.
+zeigen 	 to show 	 Zeig mir deinen Ausweis!	Show me your ID!
+führen 	 to lead 	 Er führt das Unternehmen.	He manages the company.
+sprechen 	 to speak 	 Sie spricht vier Sprachen.	She speaks four languages.
+bringen 	 to bring 	 Bringst du mir das Buch?	Are you bringing me the book?
+leben 	 to live 	 Ich lebe in Berlin.	I live in Berlin.
+fahren 	 to drive, go 	 Wir fahren nach Paris.	We are going to Paris.
+meinen 	 to mean, think 	 Was meinst du?	What do you mean?
+fragen 	 to ask 	 Darf ich dich etwas fragen?	May I ask you something?
+kennen 	 to know 	 Ich kenne ihn nicht.	I don't know him.
+gelten 	 to be valid 	 Das Angebot gilt nur heute.	The offer is valid today only.
+stellen 	 to put, place 	 Stell die Vase auf den Tisch.	Put the vase on the table.
+spielen 	 to play 	 Er spielt Fußball.	He plays soccer.
+arbeiten 	 to work 	 Sie arbeitet im Büro.	She works in the office.
+brauchen 	 to need 	 Ich brauche einen neuen Computer.	I need a new computer.
+folgen 	 to follow 	 Folge mir!	Follow me!
+lernen 	 to learn 	 Ich lerne gerade Deutsch.	I am learning German.
+bestehen 	 to exist, pass 	 Er besteht die Prüfung.	He passes the exam.
+verstehen 	 to understand 	 Ich verstehe das Problem.	I understand the problem.
+setzen 	 to set, put, place 	 Setz dich bitte hin.	Please sit down.
+bekommen 	 to get, receive 	 Ich bekomme ein Geschenk.	I receive a gift.
+beginnen 	 to begin 	 Die Show beginnt um acht.	The show starts at eight.
+erzählen 	 to tell, narrate 	 Erzähl mir eine Geschichte.	Tell me a story.
+versuchen 	 to try 	 Ich versuche, dich zu verstehen.	I try to understand you.
+schreiben 	 to write 	 Sie schreibt einen Brief.	She writes a letter.
+laufen 	 to run, walk 	 Er läuft jeden Morgen.	He runs every morning.
+erklären 	 to explain 	 Kannst du mir das erklären?	Can you explain this to me?
+entsprechen 	 to correspond, match 	 Das Ergebnis entspricht den Erwartungen.	The result meets the expectations.
+sitzen 	 to sit 	 Wir sitzen im Garten.	We are sitting in the garden.
+ziehen 	 to pull, move 	 Zieh nicht am Seil!	Don't pull the rope!
+scheinen 	 to seem, shine 	 Die Sonne scheint.	The sun is shining.
+fallen 	 to fall 	 Die Blätter fallen vom Baum.	The leaves fall from the tree.
+gehören 	 to belong 	 Das Buch gehört mir.	The book belongs to me.
+enthalten 	 to contain 	 Die Flasche enthält Wasser.	The bottle contains water.
+treffen 	 to meet, hit 	 Wir treffen uns um drei.	We meet at three.
+suchen 	 to search, look for 	 Ich suche meinen Hund.	I am looking for my dog.
+legen 	 to lay, put 	 Leg das Buch auf den Tisch.	Put the book on the table.
+vorstellen 	 to introduce, imagine 	 Kannst du dich vorstellen?	Can you introduce yourself?
+handeln 	 to deal, trade 	 Sie handelt mit Aktien.	She trades in stocks.
+erreichen 	 to achieve, reach 	 Ich erreiche mein Ziel.	I reach my goal.
+tragen 	 to carry, wear 	 Er trägt eine Brille.	He wears glasses.
+schaffen 	 to manage, create 	 Wir schaffen das.	We will make it.
+lesen 	 to read 	 Ich lese ein Buch.	I read a book.
+verlieren 	 to lose 	 Er verliert seinen Schlüssel.	He loses his key.
+darstellen 	 to represent, portray 	 Sie stellt die Hauptfigur dar.	She represents the main character.
+erkennen 	 to recognize 	 Ich erkenne dich kaum.	I barely recognize you.
+entwickeln 	 to develop 	 Er entwickelt eine App.	He develops an app.
+reden 	 to talk 	 Wir reden über das Wetter.	We talk about the weather.
+aussehen 	 to look, appear 	 Du siehst müde aus.	You look tired.
+erscheinen 	 to appear 	 Das Buch erscheint nächste Woche.	The book will be released next week.
+bilden 	 to form, educate 	 Wir bilden ein Team.	We form a team.
+anfangen 	 to begin, start 	 Der Film fängt um acht an.	The movie starts at eight.
+erwarten 	 to expect 	 Ich erwarte einen Anruf.	I expect a call.
+wohnen 	 to live, reside 	 Ich wohne in Berlin.	I live in Berlin.
+betreffen 	 to concern, affect 	 Das betrifft mich nicht.	That doesn't concern me.
+warten 	 to wait 	 Wir warten auf den Bus.	We are waiting for the bus.
+vergehen 	 to pass (time) 	 Die Zeit vergeht schnell.	Time flies.
+helfen 	 to help 	 Kann ich dir helfen?	Can I help you?
+gewinnen 	 to win 	 Er gewinnt das Rennen.	He wins the race.
+schließen 	 to close 	 Die Tür schließt automatisch.	The door closes automatically.
+fühlen 	 to feel 	 Ich fühle mich gut.	I feel good.
+bieten 	 to offer 	 Das Hotel bietet einen Pool.	The hotel offers a pool.
+interessieren 	 to interest 	 Das interessiert mich.	I am interested in that.
+erinnern 	 to remember 	 Ich erinnere mich daran.	I remember it.
+öffnen 	 to open 	 Kannst du das Fenster öffnen?	Can you open the window?
+bauen 	 to build 	 Wir bauen ein Haus.	We are building a house.
+anbieten 	 to offer 	 Sie bietet mir einen Kaffee an.	She offers me a coffee.
+studieren 	 to study 	 Sie studiert Medizin.	She studies medicine.
+beobachten 	 to observe 	 Ich beobachte die Vögel.	I watch the birds.
+verhindern 	 to prevent 	 Wir verhindern das Schlimmste.	We prevent the worst.
+berichten 	 to report 	 Der Journalist berichtet über das Ereignis.	The journalist reports on the event.
+beschreiben 	 to describe 	 Sie beschreibt das Haus als groß und hell.	She describes the house as large and bright.
+diskutieren 	 to discuss 	 Wir diskutieren über das neue Projekt.	We discuss the new project.
+fordern 	 to demand 	 Der Kunde fordert besseren Service.	The customer demands better service.
+fördern 	 to promote, support 	 Das Programm fördert junge Künstler.	The program promotes young artists.
+lösen 	 to solve 	 Er löst das Rätsel.	He solves the puzzle.
+verbinden 	 to connect 	 Das Kabel verbindet den Fernseher mit der Steckdose.	The cable connects the TV to the socket.
+verbringen 	 to spend (time) 	 Sie verbringt das Wochenende am Meer.	She spends the weekend by the sea.
+vergleichen 	 to compare 	 Wir vergleichen die Preise.	We compare prices.
+verkaufen 	 to sell 	 Er verkauft sein Auto.	He sells his car.
+versprechen 	 to promise 	 Sie verspricht, pünktlich zu sein.	She promises to be punctual.
+wählen 	 to choose, vote 	 Die Bürger wählen den neuen Bürgermeister.	The citizens elect the new mayor.
+werfen 	 to throw 	 Der Spieler wirft den Ball.	The player throws the ball.
+zurückkommen 	 to come back 	 Er kommt morgen zurück.	He comes back tomorrow.
+zusammenarbeiten 	 to cooperate 	 Wir arbeiten gut zusammen.	We work well together.
+annehmen 	 to accept 	 Ich nehme dein Angebot an.	I accept your offer.
+aufhören 	 to stop 	 Der Regen hört endlich auf.	The rain finally stops.
+ausführen 	 to carry out 	 Der Manager führt den Plan aus.	The manager executes the plan.
+beenden 	 to finish, end 	 Sie beendet das Projekt fristgerecht.	She completes the project on time.
+begleiten 	 to accompany 	 Der Assistent begleitet den Direktor zur Konferenz.	The assistant accompanies the director to the conference.
+behandeln 	 to treat 	 Der Arzt behandelt den Patienten.	The doctor treats the patient.
+beitragen 	 to contribute 	 Jeder trägt zum Erfolg bei.	Everyone contributes to success.
+bemerken 	 to notice 	 Ich bemerke eine Veränderung in seinem Verhalten.	I notice a change in his behavior.
+benutzen 	 to use 	 Sie benutzt das Werkzeug.	She uses the tool.
+besitzen 	 to own 	 Er besitzt ein altes Haus.	He owns an old house.
+bestimmen 	 to determine 	 Das Wetter bestimmt unseren Ausflug.	The weather determines our trip.
+bewegen 	 to move 	 Sie bewegt sich elegant.	She moves elegantly.
+bezahlen 	 to pay 	 Ich bezahle die Rechnung.	I pay the bill.
+bitten 	 to ask, request 	 Ich bitte dich um Hilfe.	I ask you for help.
+blieben 	 to leave 	 Der Gast bleibt die Nacht über.	The guest stays overnight.
+brechen 	 to break 	 Er bricht den Ast vom Baum.	He breaks the branch from the tree.
+brennen 	 to burn 	 Das Feuer brennt im Kamin.	The fire burns in the fireplace.
+einladen 	 to invite 	 Wir laden unsere Freunde zur Party ein.	We invite our friends to the party.
+empfehlen 	 to recommend 	 Der Arzt empfiehlt mehr Ruhe.	The doctor recommends more rest.
+entscheiden 	 to decide 	 Sie entscheidet sich für das rote Kleid.	She chooses the red dress.
+erlauben 	 to allow 	 Die Regeln erlauben keinen Ausnahmen.	The rules allow no exceptions.
+erhalten 	 to receive 	 Er erhält ein Paket.	He receives a package.
+essen 	 to eat 	 Wir essen um sieben Uhr.	We eat at seven o'clock.
+fangen 	 to catch 	 Der Torwart fängt den Ball.	The goalkeeper catches the ball.
+fehlen 	 to lack, be missing 	 Mir fehlt ein Stift.	I need a pen.
+feiern 	 to celebrate 	 Sie feiern ihren Geburtstag.	They celebrate her birthday.
+funktionieren 	 to function 	 Die Uhr funktioniert nicht.	The clock doesn't work.
+gelingen 	 to succeed 	 Das Experiment gelingt.	The experiment succeeds.
+genießen 	 to enjoy 	 Wir genießen den Sonnenuntergang.	We enjoy the sunset.
+geschehen 	 to happen 	 Was ist geschehen?	What happened?
+greifen 	 to grab 	 Er greift nach dem Ball.	He reaches for the ball.
+hängen 	 to hang 	 Das Bild hängt an der Wand.	The picture hangs on the wall.
+heben 	 to lift 	 Er hebt die Kiste hoch.	He lifts the box.
+hoffen 	 to hope 	 Ich hoffe auf gutes Wetter.	I hope for good weather.
+kaufen 	 to buy 	 Sie kauft ein neues Kleid.	She buys a new dress.
+klingen 	 to sound 	 Das klingt gut.	That sounds good.
+klopfen 	 to knock 	 Jemand klopft an die Tür.	Someone knocks on the door.
+kochen 	 to cook 	 Er kocht das Abendessen.	He cooks dinner.
+korrigieren 	 to correct 	 Der Lehrer korrigiert die Fehler.	The teacher corrects the mistakes.
+kritisieren 	 to criticize 	 Sie kritisiert den Plan.	She criticizes the plan.
+kümmern 	 to take care of 	 Sie kümmert sich um die Kinder.	She takes care of the children.
+lachen 	 to laugh 	 Wir lachen viel zusammen.	We laugh a lot together.
+laden 	 to load, invite 	 Sie lädt ihre Freunde ein.	She invites her friends.
+leiden 	 to suffer 	 Sie leidet unter Kopfschmerzen.	She suffers from headaches.
+leihen 	 to lend, borrow 	 Kann ich dein Fahrrad leihen?	Can I borrow your bike?
+lieben 	 to love 	 Ich liebe dich.	I love you.
+liefern 	 to deliver 	 Die Firma liefert die Möbel.	The company delivers the furniture.
+lügen 	 to lie 	 Er lügt nicht.	He doesn't lie.
+malen 	 to paint 	 Sie malt ein Bild.	She paints a picture.
+markieren 	 to mark 	 Markiere die richtige Antwort.	Mark the correct answer.
+messen 	 to measure 	 Er misst die Länge des Zimmers.	He measures the length of the room.
+ordnen 	 to organize, arrange 	 Sie ordnet die Dokumente.	She arranges the documents.
+passen 	 to fit, suit 	 Das Kleid passt perfekt.	The dress fits perfectly.
+planen 	 to plan 	 Wir planen eine Reise.	We plan a trip.
+probieren 	 to try, taste 	 Probier den Kuchen!	Try the cake!
+produzieren 	 to produce 	 Die Fabrik produziert Autos.	The factory produces cars.
+prüfen 	 to check, test 	 Der Lehrer prüft die Aufgaben.	The teacher checks the tasks.
+putzen 	 to clean 	 Ich putze das Badezimmer.	I clean the bathroom.
+rechnen 	 to calculate, count 	 Er rechnet die Summe aus.	He calculates the sum.
+regnen 	 to rain 	 Es regnet den ganzen Tag.	It rains all day.
+reisen 	 to travel 	 Sie reist gerne nach Italien.	She likes to travel to Italy.
+reparieren 	 to repair 	 Er repariert das Auto.	He repairs the car.
+rufen 	 to call 	 Sie ruft ihren Hund.	She calls her dog.
+sammeln 	 to collect, gather 	 Er sammelt Briefmarken.	He collects stamps.
+schenken 	 to give (a gift) 	 Er schenkt ihr Blumen.	He gives her flowers.
+schlafen 	 to sleep 	 Ich schlafe acht Stunden.	I sleep eight hours.
+schlagen 	 to hit, beat 	 Der Boxer schlägt seinen Gegner.	The boxer hits his opponent.
+schmecken 	 to taste 	 Das Essen schmeckt gut.	The food tastes good.
+schneiden 	 to cut 	 Der Koch schneidet das Gemüse.	The chef cuts the vegetables.
+schwimmen 	 to swim 	 Er schwimmt im See.	He swims in the lake.
+senden 	 to send 	 Sie sendet eine Nachricht.	She sends a message.
+singen 	 to sing 	 Sie singt ein Lied.	She sings a song.
+sinken 	 to sink 	 Die Temperatur sinkt.	The temperature drops.
+springen 	 to jump 	 Das Kind springt auf dem Bett.	The child jumps on the bed.
+stattfinden 	 to take place 	 Das Konzert findet am Freitag statt.	The concert takes place on Friday.
+steigen 	 to climb, rise 	 Die Preise steigen.	Prices rise.
+sterben 	 to die 	 Der Dichter starb jung.	The poet died young.
+stimmen 	 to be correct, to vote 	 Das Ergebnis stimmt.	The result is correct.
+stoßen 	 to bump, push 	 Er stößt sich am Tisch.	He bumps into the table.
+streiten 	 to argue 	 Sie streiten sich oft.	They often argue.
+tanzen 	 to dance 	 Das Paar tanzt Tango.	The couple dances tango.
+teilen 	 to share, divide 	 Er teilt den Kuchen.	He shares the cake.
+telefonieren 	 to telephone 	 Ich telefoniere mit meinem Freund.	I talk on the phone with my friend.
+trinken 	 to drink 	 Er trinkt einen Kaffee.	He drinks a coffee.
+übergeben 	 to hand over, vomit 	 Er übergibt die Dokumente.	He hands over the documents.
+übernehmen 	 to take over 	 Sie übernimmt die Leitung.	She takes over the management.
+übersetzen 	 to translate 	 Können Sie das übersetzen?	Can you translate that?
+überzeugen 	 to convince 	 Er überzeugt seine Kollegen.	He convinces his colleagues.
+umziehen 	 to move, change clothes 	 Wir ziehen um.	We move.
+unterbrechen 	 to interrupt 	 Bitte unterbrich mich nicht.	Please don't interrupt me.
+unternehmen 	 to undertake, do 	 Sie unternehmen eine Reise.	They take a trip.
+unterscheiden 	 to distinguish 	 Ich unterscheide die Farben.	I distinguish the colors.
+untersuchen 	 to examine 	 Der Arzt untersucht den Patienten.	The doctor examines the patient.
+unterrichten 	 to teach 	 Sie unterrichtet Englisch.	She teaches English.
+unterstützen 	 to support 	 Wir unterstützen das Projekt.	We support the project.
+verändern 	 to change, alter 	 Das Wetter verändert sich schnell.	The weather changes quickly.
+verlassen 	 to leave 	 Ich verlasse das Haus.	I leave the house.
+vermieten 	 to rent out 	 Sie vermietet ihre Wohnung.	She rents out her apartment.
+vertrauen 	 to trust 	 Ich vertraue dir.	I trust you.
+verwenden 	 to use 	 Wir verwenden frische Zutaten.	We use fresh ingredients.
+verzichten 	 to renounce, do without 	 Er verzichtet auf Zucker.	He abstains from sugar.
+vorbereiten 	 to prepare 	 Sie bereitet das Essen vor.	She prepares the food.
+vorschlagen 	 to suggest 	 Ich schlage einen Spaziergang vor.	I suggest a walk.
+wachsen 	 to grow 	 Der Baum wächst schnell.	The tree grows quickly.
+waschen 	 to wash 	 Sie wäscht das Auto.	She washes the car.
+wechseln 	 to change, exchange 	 Er wechselt das Geld.	He exchanges the money.
+wecken 	 to wake 	 Der Wecker weckt mich.	The alarm clock wakes me.
+wehren 	 to defend 	 Sie wehrt sich gegen die Anschuldigungen.	She defends herself against the accusations.
+weinen 	 to cry 	 Das Baby weint.	The baby cries.
+weitermachen 	 to continue 	 Machen Sie bitte weiter.	Please continue.
+wiegen 	 to weigh 	 Das Paket wiegt drei Kilogramm.	The package weighs three kilograms.
+wirken 	 to work, take effect 	 Das Medikament wirkt schnell.	The medication acts quickly.
+zählen 	 to count 	 Zähl die Äpfel.	Count the apples.
+zahlen 	 to pay 	 Ich zahle die Rechnung.	I pay the bill.
+zerstören 	 to destroy 	 Das Feuer zerstört das Gebäude.	The fire destroys the building.
+zögern 	 to hesitate 	 Er zögert, eine Entscheidung zu treffen.	He hesitates to make a decision.
+zubereiten 	 to prepare (food) 	 Wir bereiten das Abendessen zu.	We prepare dinner.
+zulassen 	 to allow, admit 	 Das Kino lässt 100 Personen zu.	The cinema admits 100 people.
+zusammenfassen 	 to summarize 	 Er fasst den Text zusammen.	He summarizes the text.
+zurückgeben 	 to give back, return 	 Ich gebe das Buch zurück.	I return the book.
+zurückkehren 	 to return 	 Sie kehrt nach Hause zurück.	She returns home.
+zuschauen 	 to watch 	 Ich schaue ihm beim Spielen zu.	I watch him play.
+zuhören 	 to listen 	 Hör deinem Lehrer zu.	Listen to your teacher.
+zustimmen 	 to agree 	 Ich stimme dem Vorschlag zu.	I agree with the suggestion.
+zweifeln 	 to doubt 	 Ich zweifle an seiner Ehrlichkeit.	I doubt his honesty.
+zwingen 	 to force 	 Das Gesetz zwingt ihn, Steuern zu zahlen.	The law forces him to pay taxes.
+abholen 	 to pick up 	 Ich hole dich um 8 Uhr ab.	I'll pick you up at 8 o'clock.
+ankommen 	 to arrive 	 Der Zug kommt um 10 Uhr an.	The train arrives at 10 o'clock.
+antworten 	 to answer 	 Er antwortet auf die Frage.	He answers the question.
+abnehmen 	 to decrease, lose weight 	 Er nimmt ab Januar ab.	He starts losing weight in January.
+anhalten 	 to stop 	 Der Bus hält an der Haltestelle an.	The bus stops at the stop.
+anziehen 	 to put on, attract 	 Sie zieht ihre Schuhe an.	She puts on her shoes.
+aufbauen 	 to build up 	 Wir bauen das Zelt auf.	We set up the tent.
+aufgeben 	 to give up, submit 	 Er gibt seine Karriere nicht auf.	He doesn't give up his career.
+aufnehmen 	 to record, take up 	 Sie nimmt das Angebot auf.	She accepts the offer.
+ausdrücken 	 to express 	 Er drückt seine Gefühle aus.	He expresses his feelings.
+ausfüllen 	 to fill out 	 Bitte füllen Sie das Formular aus.	Please fill out the form.
+ausgeben 	 to spend (money) 	 Ich gebe viel Geld für Bücher aus.	I spend a lot of money on books.
+ausmachen 	 to turn off, constitute 	 Mach das Licht aus.	Turn off the light.
+ausprobieren 	 to try out 	 Ich probiere das neue Restaurant aus.	I try the new restaurant.
+ausschalten 	 to switch off 	 Er schaltet das Handy aus.	He turns off the mobile phone.
+aussprechen 	 to pronounce 	 Sie spricht das Wort richtig aus.	She pronounces the word correctly.
+ausstellen 	 to exhibit, issue 	 Das Museum stellt neue Kunstwerke aus.	The museum exhibits new artworks.
+auswählen 	 to select, choose 	 Wir wählen das beste Produkt aus.	We choose the best product.
+backen 	 to bake 	 Meine Oma backt den besten Kuchen.	My grandma bakes the best cake.
+baden 	 to bathe 	 Die Kinder baden im See.	The children bathe in the lake.
+basteln 	 to do crafts 	 Wir basteln ein Geschenk.	We craft a gift.
+beachten 	 to consider, pay attention to 	 Beachte die Verkehrsregeln!	Observe the traffic rules!
+bearbeiten 	 to edit, work on 	 Er bearbeitet das Dokument.	He edits the document.
+bedeuten 	 to mean 	 Was bedeutet dieses Wort?	What does this word mean?
+begreifen 	 to grasp, understand 	 Ich begreife das Konzept jetzt.	I now understand the concept.
+behalten 	 to keep 	 Darf ich das Buch behalten?	May I keep the book?
+beißen 	 to bite 	 Der Hund beißt den Dieb.	The dog bites the thief.
+beklagen 	 to complain about 	 Sie beklagt sich über das Wetter.	She complains about the weather.
+bemühen 	 to strive, make an effort 	 Er bemüht sich, pünktlich zu sein.	He tries to be punctual.
+benennen 	 to name, designate 	 Benenne die Hauptstadt von Frankreich.	Name the capital of France.
+bergen 	 to rescue, recover 	 Die Feuerwehr birgt die Verletzten.	The fire department rescues the injured.
+beruhigen 	 to calm down 	 Die Musik beruhigt das Baby.	The music calms the baby.
+besorgen 	 to get, obtain 	 Kannst du Milch besorgen?	Can you get milk?
+bestätigen 	 to confirm 	 Bitte bestätigen Sie Ihren Termin.	Please confirm your appointment.
+betrachten 	 to consider, look at 	 Er betrachtet das Bild genau.	He looks at the picture closely.
+betreten 	 to enter 	 Betreten Sie den Raum nicht!	Do not enter the room!
+betrinken 	 to get drunk 	 Er trinkt sich auf der Party betrunken.	He gets drunk at the party.
+beweisen 	 to prove 	 Sie beweist ihre Unschuld.	She proves her innocence.
+bewerten 	 to evaluate, rate 	 Bewerte das Restaurant online.	Rate the restaurant online.
+bewundern 	 to admire 	 Ich bewundere seine Geduld.	I admire his patience.
+bezweifeln 	 to doubt 	 Ich bezweifle, dass das funktioniert.	I doubt that works.
+binden 	 to tie, bind 	 Sie bindet ihre Schuhe.	She ties her shoes.
+blühen 	 to bloom 	 Die Blumen blühen im Frühling.	The flowers bloom in the spring.
+bohren 	 to drill 	 Er bohrt ein Loch in die Wand.	He drills a hole in the wall.
+bremsen 	 to brake 	 Der Fahrer bremst an der Ampel.	The driver brakes at the traffic light.
+bügeln 	 to iron 	 Sie bügelt ihr Hemd.	She irons her shirt.
+drehen 	 to turn, spin 	 Er dreht den Schlüssel um.	He turns the key.
+drucken 	 to print 	 Wir drucken das Dokument aus.	We print the document.
+duften 	 to smell good 	 Die Blumen duften wunderbar.	The flowers smell wonderful.
+durchführen 	 to carry out, conduct 	 Sie führt eine Umfrage durch.	She conducts a survey.
+einfallen 	 to come to mind 	 Mir fällt keine Lösung ein.	I can't think of a solution.
+einkaufen 	 to shop 	 Sie kauft im Supermarkt ein.	She shops at the supermarket.
+einschalten 	 to switch on 	 Schalte das Radio ein.	Turn on the radio.
+einsetzen 	 to insert, use 	 Er setzt die Batterie ein.	He inserts the battery.
+einstellen 	 to adjust, hire 	 Sie stellt die Uhr ein.	She sets the clock.
+eintragen 	 to enter, register 	 Trage deinen Namen in die Liste ein.	Enter your name in the list.
+einverstanden 	 to agree 	 Ich bin einverstanden mit dem Plan.	I agree with the plan.
+empfangen 	 to receive, welcome 	 Sie empfängt ihre Gäste.	She receives her guests.
+erfüllen 	 to fulfill 	 Der Film erfüllt meine Erwartungen.	The movie meets my expectations.
+ergänzen 	 to complete, add to 	 Ergänze den Satz.	Complete the sentence.
+erholen 	 to recover 	 Er erholt sich am Strand.	He recovers on the beach.
+erkälten 	 to catch a cold 	 Sie erkältet sich im Winter.	She catches a cold in the winter.
+erledigen 	 to take care of 	 Ich erledige die Einkäufe.	I do the shopping.
+erleichtern 	 to relieve, ease 	 Die Nachricht erleichtert mich.	The news relieves me.
+ernten 	 to harvest 	 Wir ernten die Äpfel.	We harvest the apples.
+ernähren 	 to nourish 	 Sie ernährt sich gesund.	She eats healthily.
+erschrecken 	 to frighten 	 Der Film erschreckt die Kinder.	The movie scares the children.
+erwähnen 	 to mention 	 Er erwähnt seinen Bruder.	He mentions his brother.
+erziehen 	 to educate, bring up 	 Sie erzieht ihre Kinder streng.	She raises her children strictly.
+existieren 	 to exist 	 Das Gebäude existiert seit 1900.	The building has existed since 1900.
+festhalten 	 to hold on to 	 Halte fest an der Stange!	Hold on to the pole!
+feststellen 	 to determine, realize 	 Ich stelle eine Verbesserung fest.	I notice an improvement.
+fliegen 	 to fly 	 Die Vögel fliegen nach Süden.	The birds fly south.
+fließen 	 to flow 	 Der Fluss fließt schnell.	The river flows quickly.
+fressen 	 to eat (for animals) 	 Der Hund frisst sein Futter.	The dog eats its food.
+frieren 	 to freeze 	 Mir ist kalt, ich friere.	I am cold, I freeze.
+gestalten 	 to design, shape 	 Sie gestaltet ihr Zimmer neu.	She redesigns her room.
+gewöhnen 	 to get used to 	 Ich gewöhne mich an das neue Klima.	I get used to the new climate.
+glänzen 	 to shine, sparkle 	 Das Gold glänzt in der Sonne.	The gold shines in the sun.
+gleichen 	 to resemble 	 Die Zwillinge gleichen sich sehr.	The twins look very alike.
+graben 	 to dig 	 Der Hund gräbt ein Loch.	The dog digs a hole.
+gründen 	 to found, establish 	 Sie gründen eine Firma.	They start a company.
+herrschen 	 to rule, prevail 	 Im Wald herrscht Stille.	Silence reigns in the forest.
+importieren 	 to import 	 Deutschland importiert viele Autos.	Germany imports many cars.
+informieren 	 to inform 	 Bitte informiere mich über die Änderungen.	Please inform me about the changes.
+injizieren 	 to inject 	 Der Arzt injiziert das Medikament.	The doctor injects the medicine.
+investieren 	 to invest 	 Sie investiert in Aktien.	She invests in stocks.
+jubeln 	 to cheer 	 Die Fans jubeln im Stadion.	The fans cheer in the stadium.
+kauen 	 to chew 	 Er kaut Kaugummi.	He chews gum.
+kichern 	 to giggle 	 Die Mädchen kichern über den Witz.	The girls giggle at the joke.
+klagen 	 to complain 	 Die Mieter klagen über Lärm.	The tenants complain about noise.
+klettern 	 to climb 	 Die Kinder klettern auf den Baum.	The children climb the tree.
+klicken 	 to click 	 Er klickt auf den Link.	He clicks on the link.
+knien 	 to kneel 	 Der Ritter kniet vor der Königin.	The knight kneels before the queen.
+kollidieren 	 to collide 	 Die Autos kollidieren auf der Straße.	The cars collide on the road.
+kommentieren 	 to comment 	 Der Reporter kommentiert das Spiel.	The reporter comments on the game.
+kommunizieren 	 to communicate 	 Wir kommunizieren über E-Mail.	We communicate via email.
+komponieren 	 to compose 	 Der Musiker komponiert ein neues Stück.	The musician composes a new piece.
+konzentrieren 	 to concentrate 	 Ich konzentriere mich auf meine Arbeit.	I focus on my work.
+kriechen 	 to crawl 	 Das Baby kriecht auf dem Boden.	The baby crawls on the floor.
+krümmen 	 to bend 	 Er krümmt den Rücken beim Heben.	He bends his back when lifting.
+kühlen 	 to cool 	 Der Ventilator kühlt den Raum.	The fan cools the room.
+küssen 	 to kiss 	 Sie küssen sich zum Abschied.	They kiss goodbye.
+landen 	 to land 	 Das Flugzeug landet sicher.	The plane lands safely.
+lärmen 	 to make noise 	 Die Kinder lärmen im Garten.	The children make noise in the garden.
+leeren 	 to empty 	 Er leert den Mülleimer.	He empties the trash can.
+lehnen 	 to lean 	 Sie lehnt sich an die Wand.	She leans against the wall.
+lindern 	 to alleviate 	 Die Medikamente lindern den Schmerz.	The medication alleviates the pain.
+loben 	 to praise 	 Der Chef lobt den Mitarbeiter.	The boss praises the employee.
+locken 	 to attract, lure 	 Der Duft lockt viele Kunden an.	The fragrance attracts many customers.
+löschen 	 to delete, extinguish 	 Er löscht die Datei.	He deletes the file.
+managen 	 to manage 	 Sie managt das Projekt.	She manages the project.
+melden 	 to report, register 	 Er meldet sich freiwillig.	He volunteers.
+merken 	 to notice, memorize 	 Ich merke mir die Telefonnummer.	I memorize the phone number.
+mischen 	 to mix 	 Der Barkeeper mischt die Getränke.	The bartender mixes the drinks.
+missbrauchen 	 to abuse 	 Man sollte seine Macht nicht missbrauchen.	One should not abuse power.
+misslingen 	 to fail 	 Der Versuch misslingt.	The attempt fails.
+motivieren 	 to motivate 	 Der Trainer motiviert sein Team.	The coach motivates his team.
+murren 	 to grumble 	 Die Kunden murren über den Service.	The customers grumble about the service.
+naschen 	 to nibble, snack 	 Die Kinder naschen Süßigkeiten.	The children snack on sweets.
+navigieren 	 to navigate 	 Der Kapitän navigiert das Schiff.	The captain navigates the ship.
+negieren 	 to negate, deny 	 Er negiert die Vorwürfe.	He denies the allegations.
+notieren 	 to note, jot down 	 Ich notiere die Termine.	I note the appointments.
+nutzen 	 to use 	 Sie nutzt die Gelegenheit.	She seizes the opportunity.
+operieren 	 to operate 	 Der Chirurg operiert den Patienten.	The surgeon operates on the patient.
+organisieren 	 to organize 	 Wir organisieren eine Konferenz.	We organize a conference.
+pflanzen 	 to plant 	 Er pflanzt einen Baum.	He plants a tree.
+plaudern 	 to chat 	 Die Freunde plaudern im Café.	Friends chat in the cafe.
+polieren 	 to polish 	 Er poliert das Silber.	He polishes the silver.
+präsentieren 	 to present 	 Sie präsentiert die Ergebnisse.	She presents the results.
+protestieren 	 to protest 	 Die Bürger protestieren gegen das Gesetz.	Citizens protest against the law.
+pumpen 	 to pump 	 Er pumpt die Reifen auf.	He pumps up the tires.
+quälen 	 to torture, torment 	 Die Ungewissheit quält ihn.	The uncertainty torments him.
+raten 	 to guess, advise 	 Ich rate dir zur Vorsicht.	I advise you to be cautious.
+reagieren 	 to react 	 Sie reagiert schnell.	She reacts quickly.
+realisieren 	 to realize 	 Er realisiert seinen Traum.	He realizes his dream.
+regeln 	 to regulate, control 	 Die Ampel regelt den Verkehr.	The traffic light regulates traffic.
+reiben 	 to rub 	 Er reibt sich die Augen.	He rubs his eyes.
+reinigen 	 to clean, purify 	 Sie reinigt das Kleid.	She cleans the dress.
+reißen 	 to tear, rip 	 Das Papier reißt leicht.	The paper tears easily.
+retten 	 to save, rescue 	 Der Schwimmer rettet das Kind.	The swimmer rescues the child.
+revidieren 	 to revise 	 Sie revidiert ihre Meinung.	She revises her opinion.
+riechen 	 to smell 	 Die Blumen riechen gut.	The flowers smell good.
+ringen 	 to wrestle, struggle 	 Die Athleten ringen um den Sieg.	The athletes wrestle for victory.
+ruhen 	 to rest 	 Der Wanderer ruht sich aus.	The hiker rests.
+rutschen 	 to slide, slip 	 Das Kind rutscht auf dem Eis.	The child slips on the ice.
+saugen 	 to suck, vacuum 	 Der Staubsauger saugt den Schmutz auf.	The vacuum cleaner sucks up the dirt.
+schaden 	 to harm 	 Rauchen schadet der Gesundheit.	Smoking harms health.
+schätzen 	 to estimate, appreciate 	 Ich schätze seine Hilfe.	I appreciate his help.
+schauen 	 to look, watch 	 Wir schauen einen Film.	We watch a movie.

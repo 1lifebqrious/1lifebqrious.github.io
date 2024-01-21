@@ -1,0 +1,60 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Define the grid container */
+.grid-container {
+    width: 80vw;
+    justify-content: center; /* Center the grid horizontally */
+    align-items: center; /* Center the grid vertically */
+}
+
+/* Define the grid items */
+.grid-item {
+    background-color: #f2f2f2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    color: #333333;
+    border: 1px solid #000000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Make each grid item full width of the viewport */
+    height: 60px; /* Adjust the height as needed */
+    font-size: 34px;
+}
+
+.grid-item-tile1 {
+    background-color: hsl(0, 70%, 80%);
+}
+
+.grid-item-tile2 {
+    background-color: hsl(30, 70%, 80%);
+}
+
+.grid-item-tile3 {
+    background-color: hsl(60, 70%, 80%);
+}
+
+.grid-item-tile4 {
+    background-color: hsl(90, 70%, 80%);
+}
+
+.grid-item-tile5 {
+    background-color: hsl(120, 70%, 80%);
+}
+
+.grid-item-tile6 {
+    background-color: hsl(150, 70%, 80%);
+}
+
+/* styles for learn.html */
+.button {
+    /* font-size:24px; */
+    width: 150px;
+    height: 50px;
+}

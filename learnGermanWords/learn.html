@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learn</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <script src="learn.js"></script>
+    <style>
+        .learningArea {
+            height: 70vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+        }
+        .button-container {
+            display: flex;
+            justify-content: flex-end;
+        }
+        /* Added CSS */
+        body, h1, h2, p, strong {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div style="position: fixed; top: 0; left: 0; width: 100%;">
+        <div class="button-container">
+            <button id="toggleButton" style="font-size:24px; flex-basis: 50%;" class="button" onclick="toggleRandom()">
+                <span class="material-icons">shuffle</span>
+            </button>
+            <button id="toggleReminder" style="font-size:24px; flex-basis: 50%;" class="button" onclick="toggleReminder()">
+                <span class="material-symbols-outlined">reminder</span>
+            </button>
+        </div>
+    </div>
+    <div id="headerBlock" style="display: flex; justify-content: center; position: fixed; top: 40px; left: 0; width: 100%;">
+        <h1 id="header">Learn</h1>
+    </div>
+
+    <div class="learningArea">
+        <!-- learning area -->
+        <div>
+            <div id="objectBlock">
+                <div class="objectPart" id="objectPart">
+                    <h2 id="object">German Object</h2>
+                    <p id="meaning">English Meaning</p>
+                </div>
+            </div>
+            <br>
+            <br>
+            <div id="exampleBlock">
+                <div class="examplePart" id="examplePart">
+                    <strong id="example">German example Sentence</strong>
+                    <p id="translation">English Translation of example</p>
+                </div>
+            </div>
+        </div>
+        <!-- settings area -->
+        <div id="settingsBlock">
+            <div class="settingsPart" id="settingsPart" style="position: fixed; bottom: 0; left: 0; width: 100%;">
+                <div class="button-container">
+                    <button id="backButton" class="button" onclick="back()" style="flex-basis: 33.33%">&larr; Previous</button>
+                    <button id="remindButton" class="button" onclick="remindMeAgain()" style="flex-basis: 33.33%">&#x21bb; Remind Me</button>
+                    <button id="nextButton" class="button" onclick="next()" style="flex-basis: 33.33%">Next &rarr;</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
